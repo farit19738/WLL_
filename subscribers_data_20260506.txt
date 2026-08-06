@@ -1,0 +1,722 @@
+PN	CellID	SectorID	BTSNAME	ESN	PDSNService	IWFAsyncDataService	IWFFaxService	CellID_SectorID	PN_Range_Name	Кол-во_совпавших_диапазонов
+77235320997	9	1	ODT_Ustk-09-Shemonaiha-450	0xdd86e61f	No	No	No	91	Нов. Шульба 7723 53	1
+77235320978	9	1	ODT_Ustk-09-Shemonaiha-450	0x0549e407	No	Yes	No	91	Нов. Шульба 7723 53	1
+77235320977	36	2	ODT_Ustk-36-Sokura-450	0x0fed51f7	No	No	No	362	Нов. Шульба 7723 53	1
+77235320953	36	2	ODT_Ustk-36-Sokura-450	0x69d9f646	No	Yes	Yes	362	Нов. Шульба 7723 53	1
+77235320952	36	2	ODT_Ustk-36-Sokura-450	0x02fc440f	No	Yes	No	362	Нов. Шульба 7723 53	1
+77235320945	36	2	ODT_Ustk-36-Sokura-450	0xdd86a4aa	No	No	No	362	Нов. Шульба 7723 53	1
+77235320940	36	1	ODT_Ustk-36-Sokura-450	0x02f97caf	No	Yes	Yes	361	Нов. Шульба 7723 53	1
+77235320931	36	2	ODT_Ustk-36-Sokura-450	0x0549e34f	No	Yes	Yes	362	Нов. Шульба 7723 53	1
+77235320923	36	2	ODT_Ustk-36-Sokura-450	0x0fed5b1f	No	No	No	362	Нов. Шульба 7723 53	1
+77235320921	36	1	ODT_Ustk-36-Sokura-450	0x054a20a1	No	No	No	361	Нов. Шульба 7723 53	1
+77235320911	36	1	ODT_Ustk-36-Sokura-450	0x0fed5109	No	No	No	361	Нов. Шульба 7723 53	1
+77235320908	36	1	ODT_Ustk-36-Sokura-450	0x0fed51fb	No	Yes	No	361	Нов. Шульба 7723 53	1
+77235320904	36	0	ODT_Ustk-36-Sokura-450	0xffcc2488	No	Yes	No	360	Нов. Шульба 7723 53	1
+77235320901	36	1	ODT_Ustk-36-Sokura-450	0x0fed5111	No	Yes	Yes	361	Нов. Шульба 7723 53	1
+77235320900	36	0	ODT_Ustk-36-Sokura-450	0xdd86b45f	No	No	No	360	Нов. Шульба 7723 53	1
+77235320897	36	1	ODT_Ustk-36-Sokura-450	0xdd86ac4d	No	No	No	361	Нов. Шульба 7723 53	1
+77235320894	31	1	ODT_Ustk-31-Medvedka-450	0x0549060a	No	No	No	311	Нов. Шульба 7723 53	1
+77235320889	9	1	ODT_Ustk-09-Shemonaiha-450	0x05490a1d	No	Yes	No	91	Нов. Шульба 7723 53	1
+77235320882	9	1	ODT_Ustk-09-Shemonaiha-450	0x03019d0e	No	No	No	91	Нов. Шульба 7723 53	1
+77235320878	31	2	ODT_Ustk-31-Medvedka-450	0x03024366	No	No	No	312	Нов. Шульба 7723 53	1
+77235320876	31	1	ODT_Ustk-31-Medvedka-450	0x11f1fea7	No	Yes	Yes	311	Нов. Шульба 7723 53	1
+77235320875	9	1	ODT_Ustk-09-Shemonaiha-450	0x03025d59	No	Yes	No	91	Нов. Шульба 7723 53	1
+77235320865	31	1	ODT_Ustk-31-Medvedka-450	0x06c0d26b	No	No	No	311	Нов. Шульба 7723 53	1
+77235320864	36	2	ODT_Ustk-36-Sokura-450	0x06c0d328	No	Yes	No	362	Нов. Шульба 7723 53	1
+77235320863	9	1	ODT_Ustk-09-Shemonaiha-450	0x06c0d35a	No	No	No	91	Нов. Шульба 7723 53	1
+77235320860	31	1	ODT_Ustk-31-Medvedka-450	0x06c0d30c	No	No	No	311	Нов. Шульба 7723 53	1
+-	19	1	ODT_Ustk-19-Boroduliha-450	0xdd869564	No	No	No	191	-	0
+77235320846	37	1	ODT_Ustk-37-Remki-450	0xffcc20c8	No	No	No	371	Нов. Шульба 7723 53	1
+77235320823	36	0	ODT_Ustk-36-Sokura-450	0x106bd903	No	No	No	360	Нов. Шульба 7723 53	1
+77235320814	36	0	ODT_Ustk-36-Sokura-450	0x0549e7f8	No	No	No	360	Нов. Шульба 7723 53	1
+77235320811	37	1	ODT_Ustk-37-Remki-450	0x106ae0ee	No	Yes	No	371	Нов. Шульба 7723 53	1
+77235320805	36	0	ODT_Ustk-36-Sokura-450	0xdd86d746	No	Yes	No	360	Нов. Шульба 7723 53	1
+77235320803	36	2	ODT_Ustk-36-Sokura-450	0x11f202f5	No	No	No	362	Нов. Шульба 7723 53	1
+77235320788	37	1	ODT_Ustk-37-Remki-450	0x69d9ee80	No	No	No	371	Нов. Шульба 7723 53	1
+77235320785	37	1	ODT_Ustk-37-Remki-450	0xdd869e3d	No	No	No	371	Нов. Шульба 7723 53	1
+77235320771	37	1	ODT_Ustk-37-Remki-450	0x0fed5afe	No	No	No	371	Нов. Шульба 7723 53	1
+77235320769	37	1	ODT_Ustk-37-Remki-450	0x11f5c226	No	No	No	371	Нов. Шульба 7723 53	1
+77235320768	37	1	ODT_Ustk-37-Remki-450	0x05564124	No	No	No	371	Нов. Шульба 7723 53	1
+77235320756	37	1	ODT_Ustk-37-Remki-450	0x0549a20c	No	No	No	371	Нов. Шульба 7723 53	1
+77235320753	36	2	ODT_Ustk-36-Sokura-450	0x0d3ca424	No	Yes	No	362	Нов. Шульба 7723 53	1
+-	19	2	ODT_Ustk-19-Boroduliha-450	0xdd4e0623	No	No	No	192	-	0
+77235320746	36	2	ODT_Ustk-36-Sokura-450	0x69d9f5a3	No	No	No	362	Нов. Шульба 7723 53	1
+77235320730	37	1	ODT_Ustk-37-Remki-450	0x0547fc7a	No	Yes	Yes	371	Нов. Шульба 7723 53	1
+77235320729	9	1	ODT_Ustk-09-Shemonaiha-450	0xdd869b06	No	No	No	91	Нов. Шульба 7723 53	1
+77235320722	36	0	ODT_Ustk-36-Sokura-450	0x030649ac	No	Yes	No	360	Нов. Шульба 7723 53	1
+-	36	2	ODT_Ustk-36-Sokura-450	0xdd869a8d	No	No	No	362	-	0
+77235320718	36	2	ODT_Ustk-36-Sokura-450	0x02fc4330	No	No	No	362	Нов. Шульба 7723 53	1
+77235320708	36	1	ODT_Ustk-36-Sokura-450	0x03029550	No	Yes	No	361	Нов. Шульба 7723 53	1
+77235320704	36	2	ODT_Ustk-36-Sokura-450	0x11f1fdd9	No	No	No	362	Нов. Шульба 7723 53	1
+77235320692	17	2	ODT_Ustk-17-Pervomaika-450	0x092b96be	No	No	No	172	Нов. Шульба 7723 53	1
+77235320690	17	2	ODT_Ustk-17-Pervomaika-450	0x092b96cc	No	No	No	172	Нов. Шульба 7723 53	1
+77235320689	9	1	ODT_Ustk-09-Shemonaiha-450	0x11f1fe75	No	Yes	No	91	Нов. Шульба 7723 53	1
+77235320681	17	2	ODT_Ustk-17-Pervomaika-450	0x0931b046	No	Yes	No	172	Нов. Шульба 7723 53	1
+77235320680	10	2	ODT_Ustk-10-Sekisovka-450	0x0931baef	No	Yes	No	102	Нов. Шульба 7723 53	1
+77235320676	36	0	ODT_Ustk-36-Sokura-450	0xdd1bb5e0	No	Yes	No	360	Нов. Шульба 7723 53	1
+77235320662	9	1	ODT_Ustk-09-Shemonaiha-450	0xdd86b7b3	No	No	No	91	Нов. Шульба 7723 53	1
+77235320642	36	1	ODT_Ustk-36-Sokura-450	0x11f5a982	No	No	No	361	Нов. Шульба 7723 53	1
+77235320638	17	2	ODT_Ustk-17-Pervomaika-450	0x69d9fdfb	No	No	No	172	Нов. Шульба 7723 53	1
+77235320637	9	1	ODT_Ustk-09-Shemonaiha-450	0x106aea33	No	No	No	91	Нов. Шульба 7723 53	1
+77235320634	17	2	ODT_Ustk-17-Pervomaika-450	0x0934d15d	No	Yes	Yes	172	Нов. Шульба 7723 53	1
+77235320631	9	1	ODT_Ustk-09-Shemonaiha-450	0x0552a8c8	No	No	No	91	Нов. Шульба 7723 53	1
+77235320626	10	2	ODT_Ustk-10-Sekisovka-450	0xffcc2252	No	Yes	No	102	Нов. Шульба 7723 53	1
+77235320624	17	2	ODT_Ustk-17-Pervomaika-450	0x69d9ef2c	No	Yes	No	172	Нов. Шульба 7723 53	1
+77235320620	36	2	ODT_Ustk-36-Sokura-450	0x69da6595	No	Yes	No	362	Нов. Шульба 7723 53	1
+77235320617	17	2	ODT_Ustk-17-Pervomaika-450	0x11f5bc75	No	No	No	172	Нов. Шульба 7723 53	1
+77235320608	9	1	ODT_Ustk-09-Shemonaiha-450	0x02f8e1ca	No	Yes	Yes	91	Нов. Шульба 7723 53	1
+77235320604	9	1	ODT_Ustk-09-Shemonaiha-450	0x0549c5f9	No	No	No	91	Нов. Шульба 7723 53	1
+77235320603	36	2	ODT_Ustk-36-Sokura-450	0xdd86d1fa	No	No	No	362	Нов. Шульба 7723 53	1
+77235320601	36	1	ODT_Ustk-36-Sokura-450	0xdd86a901	No	Yes	No	361	Нов. Шульба 7723 53	1
+77235320597	31	1	ODT_Ustk-31-Medvedka-450	0x0549c573	No	Yes	No	311	Нов. Шульба 7723 53	1
+77235320591	9	1	ODT_Ustk-09-Shemonaiha-450	0xdd86d53d	No	No	No	91	Нов. Шульба 7723 53	1
+77235320587	9	1	ODT_Ustk-09-Shemonaiha-450	0x11f5a9cb	No	No	No	91	Нов. Шульба 7723 53	1
+77235320585	9	1	ODT_Ustk-09-Shemonaiha-450	0x054e3e5f	No	No	No	91	Нов. Шульба 7723 53	1
+77235320583	9	1	ODT_Ustk-09-Shemonaiha-450	0x054e3e6e	No	Yes	No	91	Нов. Шульба 7723 53	1
+77235320579	31	1	ODT_Ustk-31-Medvedka-450	0x054e3e62	No	Yes	Yes	311	Нов. Шульба 7723 53	1
+77235320566	31	1	ODT_Ustk-31-Medvedka-450	0x69d9f4e0	No	No	No	311	Нов. Шульба 7723 53	1
+77235320564	9	1	ODT_Ustk-09-Shemonaiha-450	0x055644c4	No	Yes	No	91	Нов. Шульба 7723 53	1
+77235320563	9	1	ODT_Ustk-09-Shemonaiha-450	0x03064908	No	Yes	Yes	91	Нов. Шульба 7723 53	1
+77235320560	31	2	ODT_Ustk-31-Medvedka-450	0x06c0a73f	No	No	No	312	Нов. Шульба 7723 53	1
+77235320551	9	1	ODT_Ustk-09-Shemonaiha-450	0x06c0d28a	No	No	No	91	Нов. Шульба 7723 53	1
+77235320549	9	1	ODT_Ustk-09-Shemonaiha-450	0xdd1bb5dc	No	No	No	91	Нов. Шульба 7723 53	1
+77235320548	9	1	ODT_Ustk-09-Shemonaiha-450	0x03064d00	No	Yes	No	91	Нов. Шульба 7723 53	1
+77235320547	9	1	ODT_Ustk-09-Shemonaiha-450	0x03064c4d	No	No	No	91	Нов. Шульба 7723 53	1
+77235320546	31	1	ODT_Ustk-31-Medvedka-450	0x69d9ef77	No	No	No	311	Нов. Шульба 7723 53	1
+77235320543	31	1	ODT_Ustk-31-Medvedka-450	0x11f1fafc	No	No	No	311	Нов. Шульба 7723 53	1
+77235320538	9	1	ODT_Ustk-09-Shemonaiha-450	0x054e490b	No	No	No	91	Нов. Шульба 7723 53	1
+77235320536	9	1	ODT_Ustk-09-Shemonaiha-450	0x0300cae9	No	No	No	91	Нов. Шульба 7723 53	1
+77235320532	9	1	ODT_Ustk-09-Shemonaiha-450	0x11f1fb06	No	No	No	91	Нов. Шульба 7723 53	1
+77235320531	31	1	ODT_Ustk-31-Medvedka-450	0x054e2ca7	No	No	No	311	Нов. Шульба 7723 53	1
+77235320526	31	1	ODT_Ustk-31-Medvedka-450	0xdd86a425	No	No	No	311	Нов. Шульба 7723 53	1
+77235320524	31	1	ODT_Ustk-31-Medvedka-450	0x030647f0	No	Yes	No	311	Нов. Шульба 7723 53	1
+77235320523	9	1	ODT_Ustk-09-Shemonaiha-450	0x03064869	No	No	No	91	Нов. Шульба 7723 53	1
+77235320521	31	1	ODT_Ustk-31-Medvedka-450	0x0302a8a0	No	Yes	Yes	311	Нов. Шульба 7723 53	1
+77235320520	31	2	ODT_Ustk-31-Medvedka-450	0x03064884	No	Yes	Yes	312	Нов. Шульба 7723 53	1
+77235320515	31	1	ODT_Ustk-31-Medvedka-450	0xdd86d62c	No	No	No	311	Нов. Шульба 7723 53	1
+77235320504	9	1	ODT_Ustk-09-Shemonaiha-450	0x054e59ad	No	Yes	No	91	Нов. Шульба 7723 53	1
+77235320502	9	1	ODT_Ustk-09-Shemonaiha-450	0xdd86e79c	No	No	No	91	Нов. Шульба 7723 53	1
+77235320499	36	2	ODT_Ustk-36-Sokura-450	0x69da0d89	No	Yes	Yes	362	Нов. Шульба 7723 53	1
+77235320497	36	2	ODT_Ustk-36-Sokura-450	0x0fed5193	No	No	No	362	Нов. Шульба 7723 53	1
+77235320489	36	2	ODT_Ustk-36-Sokura-450	0x69da551a	No	No	No	362	Нов. Шульба 7723 53	1
+77235320480	9	1	ODT_Ustk-09-Shemonaiha-450	0x03064d05	No	No	No	91	Нов. Шульба 7723 53	1
+77235320471	9	1	ODT_Ustk-09-Shemonaiha-450	0x11f584a1	No	No	No	91	Нов. Шульба 7723 53	1
+-	36	2	ODT_Ustk-36-Sokura-450	0xdd4ed635	No	No	No	362	-	0
+77235320457	9	1	ODT_Ustk-09-Shemonaiha-450	0x0920cd52	No	No	No	91	Нов. Шульба 7723 53	1
+77235320456	36	2	ODT_Ustk-36-Sokura-450	0x092b9659	No	Yes	No	362	Нов. Шульба 7723 53	1
+77235320454	63	2	ODT_Ustk-63-Ustalovka-450	0x0934d16d	No	Yes	No	632	Нов. Шульба 7723 53	1
+77235320450	36	1	ODT_Ustk-36-Sokura-450	0x0934d15f	No	Yes	No	361	Нов. Шульба 7723 53	1
+77235320448	36	2	ODT_Ustk-36-Sokura-450	0x11f20007	No	No	No	362	Нов. Шульба 7723 53	1
+77235320444	36	1	ODT_Ustk-36-Sokura-450	0x69d9eda7	No	No	No	361	Нов. Шульба 7723 53	1
+-	31	1	ODT_Ustk-31-Medvedka-450	0xdd4edf28	No	No	No	311	-	0
+77235320429	9	1	ODT_Ustk-09-Shemonaiha-450	0x0fed8f4d	No	No	No	91	Нов. Шульба 7723 53	1
+77235320427	31	1	ODT_Ustk-31-Medvedka-450	0x0fed8f48	No	Yes	No	311	Нов. Шульба 7723 53	1
+77235320426	9	1	ODT_Ustk-09-Shemonaiha-450	0x0fed8f52	No	Yes	Yes	91	Нов. Шульба 7723 53	1
+77235320424	9	1	ODT_Ustk-09-Shemonaiha-450	0x0fed8e3b	No	Yes	Yes	91	Нов. Шульба 7723 53	1
+77235320419	36	2	ODT_Ustk-36-Sokura-450	0x11f202f3	No	No	No	362	Нов. Шульба 7723 53	1
+77235320414	36	2	ODT_Ustk-36-Sokura-450	0x05493fa8	No	No	No	362	Нов. Шульба 7723 53	1
+77235320412	9	1	ODT_Ustk-09-Shemonaiha-450	0x69da0dc1	No	Yes	No	91	Нов. Шульба 7723 53	1
+77235320411	31	1	ODT_Ustk-31-Medvedka-450	0x69da5502	No	Yes	Yes	311	Нов. Шульба 7723 53	1
+77235320410	9	1	ODT_Ustk-09-Shemonaiha-450	0x06c0d327	No	Yes	No	91	Нов. Шульба 7723 53	1
+77235320404	36	1	ODT_Ustk-36-Sokura-450	0x69d9f52c	No	No	No	361	Нов. Шульба 7723 53	1
+77235320401	31	1	ODT_Ustk-31-Medvedka-450	0x0302a295	No	No	No	311	Нов. Шульба 7723 53	1
+77235320390	36	1	ODT_Ustk-36-Sokura-450	0x69d9fb68	No	No	No	361	Нов. Шульба 7723 53	1
+77235320386	36	2	ODT_Ustk-36-Sokura-450	0x69da5537	No	Yes	No	362	Нов. Шульба 7723 53	1
+77235320380	36	2	ODT_Ustk-36-Sokura-450	0x0301a5f4	No	Yes	No	362	Нов. Шульба 7723 53	1
+77235320379	36	1	ODT_Ustk-36-Sokura-450	0x0549a5a6	No	No	No	361	Нов. Шульба 7723 53	1
+77235320378	36	1	ODT_Ustk-36-Sokura-450	0x0301a5db	No	Yes	No	361	Нов. Шульба 7723 53	1
+77235320376	31	1	ODT_Ustk-31-Medvedka-450	0x11f1fb52	No	No	No	311	Нов. Шульба 7723 53	1
+77235320368	36	2	ODT_Ustk-36-Sokura-450	0x10a3c99d	No	Yes	Yes	362	Нов. Шульба 7723 53	1
+77235320362	36	2	ODT_Ustk-36-Sokura-450	0xdd1bb5de	No	No	No	362	Нов. Шульба 7723 53	1
+77235320361	36	2	ODT_Ustk-36-Sokura-450	0x02fdb911	No	No	No	362	Нов. Шульба 7723 53	1
+77235320360	36	2	ODT_Ustk-36-Sokura-450	0x02fdb720	No	No	No	362	Нов. Шульба 7723 53	1
+77235320352	36	2	ODT_Ustk-36-Sokura-450	0x05493aaf	No	Yes	No	362	Нов. Шульба 7723 53	1
+77235320351	36	2	ODT_Ustk-36-Sokura-450	0x05493ab1	No	Yes	No	362	Нов. Шульба 7723 53	1
+77235320347	19	1	ODT_Ustk-19-Boroduliha-450	0x11f1fae7	No	Yes	No	191	Нов. Шульба 7723 53	1
+77235320342	31	2	ODT_Ustk-31-Medvedka-450	0x0549bc95	No	Yes	No	312	Нов. Шульба 7723 53	1
+77235320335	36	0	ODT_Ustk-36-Sokura-450	0x11f5aa26	No	No	No	360	Нов. Шульба 7723 53	1
+77235320329	9	1	ODT_Ustk-09-Shemonaiha-450	0x69d9fde6	No	Yes	No	91	Нов. Шульба 7723 53	1
+77235320327	9	1	ODT_Ustk-09-Shemonaiha-450	0xffcc1937	No	No	No	91	Нов. Шульба 7723 53	1
+77235320325	36	2	ODT_Ustk-36-Sokura-450	0x11f1fafe	No	No	No	362	Нов. Шульба 7723 53	1
+77235320318	36	1	ODT_Ustk-36-Sokura-450	0x0fed5b1b	No	No	No	361	Нов. Шульба 7723 53	1
+77235320315	36	1	ODT_Ustk-36-Sokura-450	0xdd86e6ad	No	Yes	Yes	361	Нов. Шульба 7723 53	1
+77235320309	36	1	ODT_Ustk-36-Sokura-450	0x0549a72c	No	Yes	Yes	361	Нов. Шульба 7723 53	1
+77235320295	36	2	ODT_Ustk-36-Sokura-450	0x0549bccf	No	No	No	362	Нов. Шульба 7723 53	1
+77235320293	9	1	ODT_Ustk-09-Shemonaiha-450	0xdd1b6f0d	No	No	No	91	Нов. Шульба 7723 53	1
+77235320283	36	2	ODT_Ustk-36-Sokura-450	0x02f976a3	No	Yes	Yes	362	Нов. Шульба 7723 53	1
+77235320281	36	2	ODT_Ustk-36-Sokura-450	0x0547fbe5	No	Yes	Yes	362	Нов. Шульба 7723 53	1
+77235320280	36	2	ODT_Ustk-36-Sokura-450	0x69d9f954	No	No	Yes	362	Нов. Шульба 7723 53	1
+77235320274	36	2	ODT_Ustk-36-Sokura-450	0x054e4912	No	No	No	362	Нов. Шульба 7723 53	1
+77235320272	36	2	ODT_Ustk-36-Sokura-450	0x69d9ef39	No	No	No	362	Нов. Шульба 7723 53	1
+77235320271	36	2	ODT_Ustk-36-Sokura-450	0x0da09692	No	No	No	362	Нов. Шульба 7723 53	1
+77235320269	36	2	ODT_Ustk-36-Sokura-450	0x02f976a4	No	Yes	Yes	362	Нов. Шульба 7723 53	1
+77235320268	36	2	ODT_Ustk-36-Sokura-450	0x02f9750b	No	No	No	362	Нов. Шульба 7723 53	1
+77235320263	9	1	ODT_Ustk-09-Shemonaiha-450	0x0549e513	No	No	No	91	Нов. Шульба 7723 53	1
+77235320245	9	1	ODT_Ustk-09-Shemonaiha-450	0x69d9f5a5	No	No	No	91	Нов. Шульба 7723 53	1
+77235320238	21	1	ODT_Ustk-21-Zhezkent-450	0x106bdf49	No	No	No	211	Нов. Шульба 7723 53	1
+77235320234	36	2	ODT_Ustk-36-Sokura-450	0x02f39ec1	No	Yes	Yes	362	Нов. Шульба 7723 53	1
+-	31	1	ODT_Ustk-31-Medvedka-450	0xdd86979f	No	No	No	311	-	0
+77235320220	36	0	ODT_Ustk-36-Sokura-450	0x11f5bb41	No	No	No	360	Нов. Шульба 7723 53	1
+77235320216	9	1	ODT_Ustk-09-Shemonaiha-450	0x02f94ea7	No	Yes	No	91	Нов. Шульба 7723 53	1
+77235320199	9	1	ODT_Ustk-09-Shemonaiha-450	0xdd1b6f11	No	No	No	91	Нов. Шульба 7723 53	1
+77235320188	9	1	ODT_Ustk-09-Shemonaiha-450	0x02f8e0fa	No	Yes	No	91	Нов. Шульба 7723 53	1
+77235320183	9	1	ODT_Ustk-09-Shemonaiha-450	0x02f8e0f6	No	No	No	91	Нов. Шульба 7723 53	1
+77235320180	9	1	ODT_Ustk-09-Shemonaiha-450	0xdd869bcc	No	Yes	Yes	91	Нов. Шульба 7723 53	1
+77235320171	19	1	ODT_Ustk-19-Boroduliha-450	0xdd869a98	No	No	No	191	Нов. Шульба 7723 53	1
+77235320170	9	1	ODT_Ustk-09-Shemonaiha-450	0x69d9f95d	No	No	No	91	Нов. Шульба 7723 53	1
+77235320162	9	1	ODT_Ustk-09-Shemonaiha-450	0xdd86b496	No	No	No	91	Нов. Шульба 7723 53	1
+77235320158	9	1	ODT_Ustk-09-Shemonaiha-450	0x11f5ac51	No	No	No	91	Нов. Шульба 7723 53	1
+77235320155	63	2	ODT_Ustk-63-Ustalovka-450	0x03064938	No	Yes	Yes	632	Нов. Шульба 7723 53	1
+77235320145	9	1	ODT_Ustk-09-Shemonaiha-450	0x69da0d8e	No	No	No	91	Нов. Шульба 7723 53	1
+77235320143	9	1	ODT_Ustk-09-Shemonaiha-450	0x02f97400	No	Yes	No	91	Нов. Шульба 7723 53	1
+77235320142	9	1	ODT_Ustk-09-Shemonaiha-450	0x02f973ff	No	Yes	No	91	Нов. Шульба 7723 53	1
+77235320136	9	1	ODT_Ustk-09-Shemonaiha-450	0x02f96de6	No	Yes	Yes	91	Нов. Шульба 7723 53	1
+77235320131	9	1	ODT_Ustk-09-Shemonaiha-450	0x02f96df6	No	No	No	91	Нов. Шульба 7723 53	1
+77235320124	9	1	ODT_Ustk-09-Shemonaiha-450	0x0300c508	No	No	No	91	Нов. Шульба 7723 53	1
+77235320122	9	1	ODT_Ustk-09-Shemonaiha-450	0xdd86a0d3	No	Yes	Yes	91	Нов. Шульба 7723 53	1
+77235320121	63	2	ODT_Ustk-63-Ustalovka-450	0x69da5524	No	Yes	No	632	Нов. Шульба 7723 53	1
+77235320116	9	1	ODT_Ustk-09-Shemonaiha-450	0x02f74131	No	Yes	No	91	Нов. Шульба 7723 53	1
+77235320113	37	1	ODT_Ustk-37-Remki-450	0x02f97515	No	Yes	No	371	Нов. Шульба 7723 53	1
+77235320110	36	1	ODT_Ustk-36-Sokura-450	0x0934d148	No	No	No	361	Нов. Шульба 7723 53	1
+77235320102	36	1	ODT_Ustk-36-Sokura-450	0x11f1fe51	No	No	No	361	Нов. Шульба 7723 53	1
+77235320099	9	1	ODT_Ustk-09-Shemonaiha-450	0x05564254	No	Yes	Yes	91	Нов. Шульба 7723 53	1
+77235320094	36	1	ODT_Ustk-36-Sokura-450	0xdd1b6e7b	No	No	No	361	Нов. Шульба 7723 53	1
+77235320082	9	1	ODT_Ustk-09-Shemonaiha-450	0x054a2c67	No	Yes	Yes	91	Нов. Шульба 7723 53	1
+77235320071	36	2	ODT_Ustk-36-Sokura-450	0x69d9f4d8	No	Yes	Yes	362	Нов. Шульба 7723 53	1
+77235320068	9	1	ODT_Ustk-09-Shemonaiha-450	0x69da65e4	No	Yes	Yes	91	Нов. Шульба 7723 53	1
+77235320061	36	2	ODT_Ustk-36-Sokura-450	0x106bd9d4	No	No	No	362	Нов. Шульба 7723 53	1
+77235320060	36	2	ODT_Ustk-36-Sokura-450	0x11f1fb99	No	No	No	362	Нов. Шульба 7723 53	1
+77235320059	36	2	ODT_Ustk-36-Sokura-450	0x0fed5b18	No	No	No	362	Нов. Шульба 7723 53	1
+77235320053	36	2	ODT_Ustk-36-Sokura-450	0x69d9ee74	No	No	No	362	Нов. Шульба 7723 53	1
+77235320046	31	1	ODT_Ustk-31-Medvedka-450	0x11f1fbf2	No	No	No	311	Нов. Шульба 7723 53	1
+77235320039	36	2	ODT_Ustk-36-Sokura-450	0x0fed5195	No	Yes	No	362	Нов. Шульба 7723 53	1
+77235320037	36	2	ODT_Ustk-36-Sokura-450	0x02f8e1c0	No	Yes	Yes	362	Нов. Шульба 7723 53	1
+77235320036	36	2	ODT_Ustk-36-Sokura-450	0xdd1b6f2e	No	No	No	362	Нов. Шульба 7723 53	1
+77235320034	36	2	ODT_Ustk-36-Sokura-450	0x0d3c8140	No	Yes	No	362	Нов. Шульба 7723 53	1
+77235320032	36	1	ODT_Ustk-36-Sokura-450	0x055616d7	No	No	No	361	Нов. Шульба 7723 53	1
+77235320031	36	2	ODT_Ustk-36-Sokura-450	0x11f5e32a	No	Yes	No	362	Нов. Шульба 7723 53	1
+77235320024	9	1	ODT_Ustk-09-Shemonaiha-450	0x054a1e27	No	No	No	91	Нов. Шульба 7723 53	1
+77235320022	36	2	ODT_Ustk-36-Sokura-450	0x0555fbe7	No	No	No	362	Нов. Шульба 7723 53	1
+77235320013	36	0	ODT_Ustk-36-Sokura-450	0x69d9f5f9	No	No	No	360	Нов. Шульба 7723 53	1
+77235320011	36	2	ODT_Ustk-36-Sokura-450	0x106be1ac	No	No	No	362	Нов. Шульба 7723 53	1
+77235320009	36	1	ODT_Ustk-36-Sokura-450	0x69da20fc	No	Yes	No	361	Нов. Шульба 7723 53	1
+77235320003	36	1	ODT_Ustk-36-Sokura-450	0x69d9f528	No	Yes	No	361	Нов. Шульба 7723 53	1
+-	36	2	ODT_Ustk-36-Sokura-450	0xdd869599	No	No	No	362	-	0
+77235128469	19	1	ODT_Ustk-19-Boroduliha-450	0x11f1fe74	No	No	No	191	Бородулиха 7723 51	1
+77235128429	37	1	ODT_Ustk-37-Remki-450	0x054946d7	No	Yes	Yes	371	Бородулиха 7723 51	1
+-	36	2	ODT_Ustk-36-Sokura-450	0xdd4eea21	No	No	No	362	-	0
+77235128300	19	2	ODT_Ustk-19-Boroduliha-450	0xdd86e426	No	Yes	Yes	192	Бородулиха 7723 51	1
+77235128289	19	2	ODT_Ustk-19-Boroduliha-450	0xdd1b6f09	No	No	No	192	Бородулиха 7723 51	1
+77235128218	19	2	ODT_Ustk-19-Boroduliha-450	0x054e6813	No	No	No	192	Бородулиха 7723 51	1
+77235127980	19	2	ODT_Ustk-19-Boroduliha-450	0xdd86aa46	No	No	No	192	Бородулиха 7723 51	1
+77235127974	19	1	ODT_Ustk-19-Boroduliha-450	0x0d3cac72	No	Yes	No	191	Бородулиха 7723 51	1
+77235127970	19	1	ODT_Ustk-19-Boroduliha-450	0x0fed54ab	No	No	No	191	Бородулиха 7723 51	1
+77235127964	19	1	ODT_Ustk-19-Boroduliha-450	0x03025f4a	No	No	No	191	Бородулиха 7723 51	1
+77235127961	19	1	ODT_Ustk-19-Boroduliha-450	0x0300c4db	No	No	No	191	Бородулиха 7723 51	1
+77235127960	19	1	ODT_Ustk-19-Boroduliha-450	0x11f5a865	No	No	No	191	Бородулиха 7723 51	1
+77235127957	19	1	ODT_Ustk-19-Boroduliha-450	0x69da6445	No	Yes	No	191	Бородулиха 7723 51	1
+77235127937	19	1	ODT_Ustk-19-Boroduliha-450	0x10a37574	No	Yes	No	191	Бородулиха 7723 51	1
+77235127920	19	1	ODT_Ustk-19-Boroduliha-450	0xffcc2473	No	No	No	191	Бородулиха 7723 51	1
+-	19	1	ODT_Ustk-19-Boroduliha-450	0x69d9f4b6	No	No	No	191	-	0
+77235127905	19	1	ODT_Ustk-19-Boroduliha-450	0x11f1fc0e	No	No	No	191	Бородулиха 7723 51	1
+77235127817	21	0	ODT_Ustk-21-Zhezkent-450	0x69da54f5	No	No	No	210	Бородулиха 7723 51	1
+77235127804	37	1	ODT_Ustk-37-Remki-450	0x69da54dc	No	No	No	371	Бородулиха 7723 51	1
+77235127803	21	1	ODT_Ustk-21-Zhezkent-450	0x11f1fb1a	No	No	No	211	Бородулиха 7723 51	1
+77235127774	21	1	ODT_Ustk-21-Zhezkent-450	0xdd86ade1	No	No	No	211	Бородулиха 7723 51	1
+77235127759	37	0	ODT_Ustk-37-Remki-450	0x69da55f0	No	No	No	370	Бородулиха 7723 51	1
+77235127694	37	1	ODT_Ustk-37-Remki-450	0x11f5a6bc	No	No	No	371	Бородулиха 7723 51	1
+77235127690	37	1	ODT_Ustk-37-Remki-450	0x69d9f4c0	No	No	No	371	Бородулиха 7723 51	1
+77235127689	37	1	ODT_Ustk-37-Remki-450	0xdd1b6e96	No	Yes	No	371	Бородулиха 7723 51	1
+77235127684	37	1	ODT_Ustk-37-Remki-450	0xdd86e424	No	Yes	No	371	Бородулиха 7723 51	1
+77235127674	37	1	ODT_Ustk-37-Remki-450	0x11f1fb24	No	No	No	371	Бородулиха 7723 51	1
+77235127650	37	1	ODT_Ustk-37-Remki-450	0xdd86c2af	No	No	No	371	Бородулиха 7723 51	1
+77235127631	21	2	ODT_Ustk-21-Zhezkent-450	0x0fed5ba9	No	No	No	212	Бородулиха 7723 51	1
+77235127620	21	1	ODT_Ustk-21-Zhezkent-450	0x0fed8982	No	No	No	211	Бородулиха 7723 51	1
+77235127599	37	1	ODT_Ustk-37-Remki-450	0xdd1b6f5d	No	Yes	Yes	371	Бородулиха 7723 51	1
+77235127588	37	1	ODT_Ustk-37-Remki-450	0x11f5a8ca	No	No	No	371	Бородулиха 7723 51	1
+77235127584	37	1	ODT_Ustk-37-Remki-450	0xdd1b6ed1	No	Yes	No	371	Бородулиха 7723 51	1
+77235127574	37	1	ODT_Ustk-37-Remki-450	0x0301c59a	No	No	No	371	Бородулиха 7723 51	1
+77235127573	37	1	ODT_Ustk-37-Remki-450	0xdd1b6d97	Yes	Yes	No	371	Бородулиха 7723 51	1
+77235127558	37	1	ODT_Ustk-37-Remki-450	0x0547fccf	No	No	No	371	Бородулиха 7723 51	1
+77235127546	37	1	ODT_Ustk-37-Remki-450	0xdd1b6f56	No	Yes	Yes	371	Бородулиха 7723 51	1
+77235127524	37	1	ODT_Ustk-37-Remki-450	0x11f5a9ee	No	Yes	Yes	371	Бородулиха 7723 51	1
+77235127520	37	1	ODT_Ustk-37-Remki-450	0x11f5c16b	No	No	No	371	Бородулиха 7723 51	1
+77235127511	21	1	ODT_Ustk-21-Zhezkent-450	0xdd1b6f16	No	No	Yes	211	Бородулиха 7723 51	1
+77235127509	37	1	ODT_Ustk-37-Remki-450	0xdd1b6f17	No	Yes	No	371	Бородулиха 7723 51	1
+77235127505	37	1	ODT_Ustk-37-Remki-450	0xdd1b6f13	No	Yes	Yes	371	Бородулиха 7723 51	1
+77235127482	21	0	ODT_Ustk-21-Zhezkent-450	0x11f5bb66	No	Yes	No	210	Бородулиха 7723 51	1
+77235127473	21	1	ODT_Ustk-21-Zhezkent-450	0x0549e4b7	No	Yes	No	211	Бородулиха 7723 51	1
+77235127462	37	0	ODT_Ustk-37-Remki-450	0x0da09525	No	Yes	No	370	Бородулиха 7723 51	1
+77235127438	21	1	ODT_Ustk-21-Zhezkent-450	0xdd86b7a6	No	Yes	No	211	Бородулиха 7723 51	1
+-	36	2	ODT_Ustk-36-Sokura-450	0xdd4ed5b1	No	No	No	362	-	0
+77235127259	19	2	ODT_Ustk-19-Boroduliha-450	0x054a1f9a	No	Yes	No	192	Бородулиха 7723 51	1
+-	19	1	ODT_Ustk-19-Boroduliha-450	0xdd8696d8	No	No	No	191	-	0
+77235126642	20	1	ODT_Ustk-20-Sosnovka-450	0x69d9f4b4	No	Yes	Yes	201	Бородулиха 7723 51	1
+77235126624	20	1	ODT_Ustk-20-Sosnovka-450	0x69d9f4c4	No	No	No	201	Бородулиха 7723 51	1
+77235126620	19	1	ODT_Ustk-19-Boroduliha-450	0x69d9f4ff	No	No	No	191	Бородулиха 7723 51	1
+77235126617	20	1	ODT_Ustk-20-Sosnovka-450	0x69da5517	No	No	No	201	Бородулиха 7723 51	1
+77235126616	20	1	ODT_Ustk-20-Sosnovka-450	0x69da6647	No	No	No	201	Бородулиха 7723 51	1
+-	19	1	ODT_Ustk-19-Boroduliha-450	0xdd869a60	No	No	No	191	-	0
+77235126581	20	0	ODT_Ustk-20-Sosnovka-450	0x02f439b5	No	Yes	Yes	200	Бородулиха 7723 51	1
+77235126555	19	1	ODT_Ustk-19-Boroduliha-450	0x11f1fdc4	No	Yes	No	191	Бородулиха 7723 51	1
+77235126536	19	1	ODT_Ustk-19-Boroduliha-450	0x03064939	No	Yes	No	191	Бородулиха 7723 51	1
+77235126533	20	1	ODT_Ustk-20-Sosnovka-450	0x0da094a6	No	Yes	No	201	Бородулиха 7723 51	1
+77235126530	20	1	ODT_Ustk-20-Sosnovka-450	0x054946b6	No	No	No	201	Бородулиха 7723 51	1
+77235126525	37	1	ODT_Ustk-37-Remki-450	0x0549c490	No	No	No	371	Бородулиха 7723 51	1
+77235126444	19	1	ODT_Ustk-19-Boroduliha-450	0x11f1fbca	No	Yes	No	191	Бородулиха 7723 51	1
+77235126425	20	1	ODT_Ustk-20-Sosnovka-450	0x0549a5ee	No	No	No	201	Бородулиха 7723 51	1
+77235126408	19	2	ODT_Ustk-19-Boroduliha-450	0x054e5998	No	No	No	192	Бородулиха 7723 51	1
+77235126388	20	1	ODT_Ustk-20-Sosnovka-450	0x69d9ef7a	No	No	No	201	Бородулиха 7723 51	1
+77235126362	19	1	ODT_Ustk-19-Boroduliha-450	0x69da35aa	No	No	No	191	Бородулиха 7723 51	1
+77235126317	20	1	ODT_Ustk-20-Sosnovka-450	0x69d9f653	No	No	No	201	Бородулиха 7723 51	1
+77235126290	21	1	ODT_Ustk-21-Zhezkent-450	0x69da5566	No	No	No	211	Бородулиха 7723 51	1
+77235126257	37	0	ODT_Ustk-37-Remki-450	0x0301c5ae	No	No	No	370	Бородулиха 7723 51	1
+77235126245	21	1	ODT_Ustk-21-Zhezkent-450	0x054e23c8	No	Yes	Yes	211	Бородулиха 7723 51	1
+77235126225	21	1	ODT_Ustk-21-Zhezkent-450	0x02f3a002	No	Yes	Yes	211	Бородулиха 7723 51	1
+77235126207	21	2	ODT_Ustk-21-Zhezkent-450	0x02f3a2ab	No	No	No	212	Бородулиха 7723 51	1
+77235126198	37	0	ODT_Ustk-37-Remki-450	0x10a3c233	No	Yes	No	370	Бородулиха 7723 51	1
+77235126190	21	0	ODT_Ustk-21-Zhezkent-450	0x11f1fb1c	No	No	No	210	Бородулиха 7723 51	1
+77235126188	21	1	ODT_Ustk-21-Zhezkent-450	0xffcc2231	No	Yes	Yes	211	Бородулиха 7723 51	1
+77235126184	21	0	ODT_Ustk-21-Zhezkent-450	0x02f3a136	No	Yes	Yes	210	Бородулиха 7723 51	1
+77235126181	21	1	ODT_Ustk-21-Zhezkent-450	0x02f3a05d	No	Yes	No	211	Бородулиха 7723 51	1
+77235126180	21	1	ODT_Ustk-21-Zhezkent-450	0x106af948	No	Yes	No	211	Бородулиха 7723 51	1
+77235126178	21	1	ODT_Ustk-21-Zhezkent-450	0x106afe33	No	Yes	No	211	Бородулиха 7723 51	1
+77235126166	21	0	ODT_Ustk-21-Zhezkent-450	0x106af85e	No	Yes	No	210	Бородулиха 7723 51	1
+77235126150	21	1	ODT_Ustk-21-Zhezkent-450	0x10a3d35d	No	No	No	211	Бородулиха 7723 51	1
+77235126138	37	1	ODT_Ustk-37-Remki-450	0x03029403	No	No	No	371	Бородулиха 7723 51	1
+77235126134	21	0	ODT_Ustk-21-Zhezkent-450	0xffcc2258	No	Yes	Yes	210	Бородулиха 7723 51	1
+-	9	1	ODT_Ustk-09-Shemonaiha-450	0xdd4e03b6	No	No	No	91	-	0
+77235126095	37	0	ODT_Ustk-37-Remki-450	0x69da5530	No	No	No	370	Бородулиха 7723 51	1
+77235126067	37	2	ODT_Ustk-37-Remki-450	0x11f5bb1a	No	No	No	372	Бородулиха 7723 51	1
+77235126018	37	0	ODT_Ustk-37-Remki-450	0x106ac266	No	Yes	Yes	370	Бородулиха 7723 51	1
+77235126000	37	0	ODT_Ustk-37-Remki-450	0x11f1feb3	No	Yes	No	370	Бородулиха 7723 51	1
+77235125999	21	0	ODT_Ustk-21-Zhezkent-450	0x106afc2d	No	No	No	210	Бородулиха 7723 51	1
+77235125992	21	1	ODT_Ustk-21-Zhezkent-450	0x0fed6589	No	Yes	Yes	211	Бородулиха 7723 51	1
+77235125957	37	0	ODT_Ustk-37-Remki-450	0xffcc20d0	No	Yes	No	370	Бородулиха 7723 51	1
+77235125946	21	0	ODT_Ustk-21-Zhezkent-450	0x11f58523	No	No	No	210	Бородулиха 7723 51	1
+77235125932	21	0	ODT_Ustk-21-Zhezkent-450	0x11f1fb55	No	No	No	210	Бородулиха 7723 51	1
+77235125931	37	0	ODT_Ustk-37-Remki-450	0x106b0df9	No	Yes	No	370	Бородулиха 7723 51	1
+77235125914	21	2	ODT_Ustk-21-Zhezkent-450	0x11f5c204	No	Yes	No	212	Бородулиха 7723 51	1
+77235125908	37	0	ODT_Ustk-37-Remki-450	0x11f2060c	No	Yes	Yes	370	Бородулиха 7723 51	1
+77235125907	21	1	ODT_Ustk-21-Zhezkent-450	0x69da0d1b	No	No	No	211	Бородулиха 7723 51	1
+77235125900	37	0	ODT_Ustk-37-Remki-450	0x11f1fb40	No	Yes	No	370	Бородулиха 7723 51	1
+77235125896	21	0	ODT_Ustk-21-Zhezkent-450	0x11f5a9ce	No	No	No	210	Бородулиха 7723 51	1
+77235125895	37	0	ODT_Ustk-37-Remki-450	0x11f5a9d0	No	Yes	Yes	370	Бородулиха 7723 51	1
+77235125893	21	1	ODT_Ustk-21-Zhezkent-450	0x11f5a9ca	No	No	No	211	Бородулиха 7723 51	1
+77235125870	21	1	ODT_Ustk-21-Zhezkent-450	0x11f5e35b	No	Yes	Yes	211	Бородулиха 7723 51	1
+77235125861	21	1	ODT_Ustk-21-Zhezkent-450	0x11f5e37f	No	No	No	211	Бородулиха 7723 51	1
+77235125816	21	0	ODT_Ustk-21-Zhezkent-450	0x11f5854f	No	Yes	Yes	210	Бородулиха 7723 51	1
+77235125810	21	1	ODT_Ustk-21-Zhezkent-450	0x11f58690	No	No	No	211	Бородулиха 7723 51	1
+77235125800	37	0	ODT_Ustk-37-Remki-450	0x69da54fb	No	Yes	No	370	Бородулиха 7723 51	1
+77235125727	37	0	ODT_Ustk-37-Remki-450	0x69d9ef13	No	Yes	No	370	Бородулиха 7723 51	1
+77235125726	21	2	ODT_Ustk-21-Zhezkent-450	0x11f5bb29	No	No	No	212	Бородулиха 7723 51	1
+77235125703	21	1	ODT_Ustk-21-Zhezkent-450	0x11f58c64	No	Yes	Yes	211	Бородулиха 7723 51	1
+77235125660	21	0	ODT_Ustk-21-Zhezkent-450	0x11f5bc72	No	No	No	210	Бородулиха 7723 51	1
+77235125638	21	0	ODT_Ustk-21-Zhezkent-450	0x11f5a59f	No	No	No	210	Бородулиха 7723 51	1
+77235125595	20	1	ODT_Ustk-20-Sosnovka-450	0xdd4edd02	No	Yes	Yes	201	Бородулиха 7723 51	1
+77235125576	37	0	ODT_Ustk-37-Remki-450	0x11f5bb0c	No	No	No	370	Бородулиха 7723 51	1
+77235125569	21	0	ODT_Ustk-21-Zhezkent-450	0x0549bda7	No	No	No	210	Бородулиха 7723 51	1
+77235125548	21	1	ODT_Ustk-21-Zhezkent-450	0x69d9f513	No	No	No	211	Бородулиха 7723 51	1
+77235125482	21	1	ODT_Ustk-21-Zhezkent-450	0x69da359c	No	No	No	211	Бородулиха 7723 51	1
+77235125473	21	1	ODT_Ustk-21-Zhezkent-450	0x69da56c1	No	No	No	211	Бородулиха 7723 51	1
+77235125472	21	0	ODT_Ustk-21-Zhezkent-450	0x11f58548	No	Yes	No	210	Бородулиха 7723 51	1
+77235125455	21	1	ODT_Ustk-21-Zhezkent-450	0x11f5aa00	No	No	No	211	Бородулиха 7723 51	1
+77235125448	21	1	ODT_Ustk-21-Zhezkent-450	0x11f5a9e7	No	No	No	211	Бородулиха 7723 51	1
+77235125412	37	0	ODT_Ustk-37-Remki-450	0x11f5a948	No	Yes	Yes	370	Бородулиха 7723 51	1
+77235125401	21	1	ODT_Ustk-21-Zhezkent-450	0x11f58516	No	Yes	Yes	211	Бородулиха 7723 51	1
+77235125386	37	0	ODT_Ustk-37-Remki-450	0x11f5bc54	No	No	No	370	Бородулиха 7723 51	1
+77235125343	21	0	ODT_Ustk-21-Zhezkent-450	0x0931bb7c	No	No	No	210	Бородулиха 7723 51	1
+77235125322	21	0	ODT_Ustk-21-Zhezkent-450	0x11f20615	No	Yes	Yes	210	Бородулиха 7723 51	1
+77235125271	37	0	ODT_Ustk-37-Remki-450	0x0d3ccdc5	No	No	No	370	Бородулиха 7723 51	1
+77235125247	37	0	ODT_Ustk-37-Remki-450	0x11f1fbc6	No	Yes	Yes	370	Бородулиха 7723 51	1
+77235125200	21	1	ODT_Ustk-21-Zhezkent-450	0x11f5a9d9	No	Yes	No	211	Бородулиха 7723 51	1
+77235125160	21	1	ODT_Ustk-21-Zhezkent-450	0x11f1fc6d	No	Yes	Yes	211	Бородулиха 7723 51	1
+77235125139	21	0	ODT_Ustk-21-Zhezkent-450	0x11f1fb78	No	No	No	210	Бородулиха 7723 51	1
+77235125127	21	2	ODT_Ustk-21-Zhezkent-450	0x69da0e41	No	Yes	Yes	212	Бородулиха 7723 51	1
+77235125119	21	1	ODT_Ustk-21-Zhezkent-450	0x11f1fb1b	No	Yes	Yes	211	Бородулиха 7723 51	1
+77235125105	37	0	ODT_Ustk-37-Remki-450	0x11f1fe20	No	Yes	No	370	Бородулиха 7723 51	1
+77235125079	21	0	ODT_Ustk-21-Zhezkent-450	0x0549c536	No	Yes	Yes	210	Бородулиха 7723 51	1
+77235125073	21	1	ODT_Ustk-21-Zhezkent-450	0x11f5aa1c	No	No	No	211	Бородулиха 7723 51	1
+77235125070	21	0	ODT_Ustk-21-Zhezkent-450	0xdd86e60d	No	No	No	210	Бородулиха 7723 51	1
+77235125064	37	0	ODT_Ustk-37-Remki-450	0x11f5a9af	No	Yes	No	370	Бородулиха 7723 51	1
+77235125063	21	0	ODT_Ustk-21-Zhezkent-450	0x11f1fe11	No	Yes	Yes	210	Бородулиха 7723 51	1
+77235125055	21	1	ODT_Ustk-21-Zhezkent-450	0x69da1e9d	No	No	No	211	Бородулиха 7723 51	1
+-	9	1	ODT_Ustk-09-Shemonaiha-450	0xdd4ede94	No	No	No	91	-	0
+77235125011	37	0	ODT_Ustk-37-Remki-450	0x11f1fb69	No	No	No	370	Бородулиха 7723 51	1
+77235125010	21	1	ODT_Ustk-21-Zhezkent-450	0x11f2053e	No	No	No	211	Бородулиха 7723 51	1
+77235125002	21	2	ODT_Ustk-21-Zhezkent-450	0x106bf061	No	No	No	212	Бородулиха 7723 51	1
+77235124998	21	1	ODT_Ustk-21-Zhezkent-450	0x11f20485	No	Yes	No	211	Бородулиха 7723 51	1
+77235124962	21	1	ODT_Ustk-21-Zhezkent-450	0x0549e81b	No	Yes	Yes	211	Бородулиха 7723 51	1
+77235124927	37	0	ODT_Ustk-37-Remki-450	0xdd86a4cc	No	No	No	370	Бородулиха 7723 51	1
+77235124926	21	2	ODT_Ustk-21-Zhezkent-450	0x11f1fea1	No	Yes	No	212	Бородулиха 7723 51	1
+77235124905	37	0	ODT_Ustk-37-Remki-450	0x11f1fedd	No	No	No	370	Бородулиха 7723 51	1
+77235124883	37	0	ODT_Ustk-37-Remki-450	0x11f2060e	No	Yes	Yes	370	Бородулиха 7723 51	1
+77235124876	37	0	ODT_Ustk-37-Remki-450	0x11f5e322	No	No	No	370	Бородулиха 7723 51	1
+77235124873	37	0	ODT_Ustk-37-Remki-450	0x11f5bc6b	No	No	No	370	Бородулиха 7723 51	1
+77235124847	37	0	ODT_Ustk-37-Remki-450	0x11f205c3	No	No	No	370	Бородулиха 7723 51	1
+77235124846	21	2	ODT_Ustk-21-Zhezkent-450	0x11f205bf	No	Yes	No	212	Бородулиха 7723 51	1
+77235124840	21	1	ODT_Ustk-21-Zhezkent-450	0x69da1e9b	No	No	No	211	Бородулиха 7723 51	1
+77235124833	21	0	ODT_Ustk-21-Zhezkent-450	0x11f202ec	No	Yes	Yes	210	Бородулиха 7723 51	1
+77235124832	37	0	ODT_Ustk-37-Remki-450	0x0fed898a	No	No	No	370	Бородулиха 7723 51	1
+77235124830	21	0	ODT_Ustk-21-Zhezkent-450	0x0302a87d	No	Yes	No	210	Бородулиха 7723 51	1
+77235124829	37	0	ODT_Ustk-37-Remki-450	0x69da5426	No	No	No	370	Бородулиха 7723 51	1
+77235124820	21	1	ODT_Ustk-21-Zhezkent-450	0xdd86adf8	No	No	No	211	Бородулиха 7723 51	1
+77235124818	21	1	ODT_Ustk-21-Zhezkent-450	0xdd86a2f6	No	Yes	No	211	Бородулиха 7723 51	1
+77235124815	21	1	ODT_Ustk-21-Zhezkent-450	0xdd86a2f8	No	Yes	No	211	Бородулиха 7723 51	1
+77235124800	37	0	ODT_Ustk-37-Remki-450	0x69da551b	No	Yes	No	370	Бородулиха 7723 51	1
+77235124798	19	1	ODT_Ustk-19-Boroduliha-450	0x0547fc65	No	Yes	No	191	Бородулиха 7723 51	1
+77235124783	19	1	ODT_Ustk-19-Boroduliha-450	0x11f5e3ee	No	No	No	191	Бородулиха 7723 51	1
+77235124780	19	1	ODT_Ustk-19-Boroduliha-450	0x11f202fc	No	No	No	191	Бородулиха 7723 51	1
+77235124755	19	0	ODT_Ustk-19-Boroduliha-450	0x02f73858	No	Yes	Yes	190	Бородулиха 7723 51	1
+77235124752	19	1	ODT_Ustk-19-Boroduliha-450	0x11f5e30f	No	No	No	191	Бородулиха 7723 51	1
+77235124719	20	2	ODT_Ustk-20-Sosnovka-450	0x11f5a8bb	No	No	No	202	Бородулиха 7723 51	1
+77235124718	20	2	ODT_Ustk-20-Sosnovka-450	0x054e47f5	No	No	No	202	Бородулиха 7723 51	1
+77235124712	19	1	ODT_Ustk-19-Boroduliha-450	0x0549a62a	No	No	No	191	Бородулиха 7723 51	1
+77235124644	37	1	ODT_Ustk-37-Remki-450	0xdd86d5ba	No	No	Yes	371	Бородулиха 7723 51	1
+77235124625	20	2	ODT_Ustk-20-Sosnovka-450	0x69d9f4d0	No	Yes	Yes	202	Бородулиха 7723 51	1
+-	19	2	ODT_Ustk-19-Boroduliha-450	0xdd86975b	No	No	No	192	-	0
+77235124615	19	0	ODT_Ustk-19-Boroduliha-450	0x0d3c9cfe	No	Yes	Yes	190	Бородулиха 7723 51	1
+77235124599	37	1	ODT_Ustk-37-Remki-450	0x11f5e30d	No	No	No	371	Бородулиха 7723 51	1
+77235124589	19	2	ODT_Ustk-19-Boroduliha-450	0x0300cb11	No	No	No	192	Бородулиха 7723 51	1
+77235124587	19	1	ODT_Ustk-19-Boroduliha-450	0x106adc89	No	No	No	191	Бородулиха 7723 51	1
+77235124582	19	1	ODT_Ustk-19-Boroduliha-450	0x11f5bb63	No	No	No	191	Бородулиха 7723 51	1
+77235124566	19	1	ODT_Ustk-19-Boroduliha-450	0x69da5539	No	No	No	191	Бородулиха 7723 51	1
+-	36	1	ODT_Ustk-36-Sokura-450	0xdd869b8b	No	No	No	361	-	0
+77235124552	19	0	ODT_Ustk-19-Boroduliha-450	0x092b96c0	No	Yes	No	190	Бородулиха 7723 51	1
+77235124550	19	2	ODT_Ustk-19-Boroduliha-450	0x11f205cf	No	No	Yes	192	Бородулиха 7723 51	1
+77235124541	19	1	ODT_Ustk-19-Boroduliha-450	0x106bd501	No	No	No	191	Бородулиха 7723 51	1
+77235124540	19	0	ODT_Ustk-19-Boroduliha-450	0x0920cd4a	No	No	No	190	Бородулиха 7723 51	1
+77235124538	19	2	ODT_Ustk-19-Boroduliha-450	0x054e67fd	No	No	No	192	Бородулиха 7723 51	1
+77235124528	19	2	ODT_Ustk-19-Boroduliha-450	0x10a37804	No	Yes	No	192	Бородулиха 7723 51	1
+77235124499	19	2	ODT_Ustk-19-Boroduliha-450	0x106afa5a	No	Yes	Yes	192	Бородулиха 7723 51	1
+77235124489	19	1	ODT_Ustk-19-Boroduliha-450	0x106afade	No	No	No	191	Бородулиха 7723 51	1
+77235124461	19	0	ODT_Ustk-19-Boroduliha-450	0x106ae981	No	No	No	190	Бородулиха 7723 51	1
+77235124460	19	1	ODT_Ustk-19-Boroduliha-450	0x106ad1a3	No	No	No	191	Бородулиха 7723 51	1
+-	19	2	ODT_Ustk-19-Boroduliha-450	0x06ddabe3	No	No	No	192	-	0
+77235124439	19	2	ODT_Ustk-19-Boroduliha-450	0x10a36448	No	No	No	192	Бородулиха 7723 51	1
+77235124438	19	2	ODT_Ustk-19-Boroduliha-450	0x10a36538	No	Yes	No	192	Бородулиха 7723 51	1
+77235124418	19	2	ODT_Ustk-19-Boroduliha-450	0xdd86d626	No	No	No	192	Бородулиха 7723 51	1
+77235124417	19	2	ODT_Ustk-19-Boroduliha-450	0x054e3320	No	Yes	No	192	Бородулиха 7723 51	1
+77235124414	19	2	ODT_Ustk-19-Boroduliha-450	0x69da6552	No	No	No	192	Бородулиха 7723 51	1
+77235124411	19	2	ODT_Ustk-19-Boroduliha-450	0x69d9f5ab	No	No	No	192	Бородулиха 7723 51	1
+77235124404	19	2	ODT_Ustk-19-Boroduliha-450	0x106afa96	No	Yes	No	192	Бородулиха 7723 51	1
+77235124391	19	0	ODT_Ustk-19-Boroduliha-450	0x69d9ea53	No	Yes	No	190	Бородулиха 7723 51	1
+77235124386	19	2	ODT_Ustk-19-Boroduliha-450	0x69d9f4c3	No	Yes	No	192	Бородулиха 7723 51	1
+77235124378	19	2	ODT_Ustk-19-Boroduliha-450	0x10a379af	No	Yes	No	192	Бородулиха 7723 51	1
+77235124351	19	2	ODT_Ustk-19-Boroduliha-450	0x092b96c7	No	No	No	192	Бородулиха 7723 51	1
+77235124337	19	1	ODT_Ustk-19-Boroduliha-450	0xdd1b6f1c	No	No	No	191	Бородулиха 7723 51	1
+77235124291	19	2	ODT_Ustk-19-Boroduliha-450	0x055651aa	No	No	No	192	Бородулиха 7723 51	1
+77235124239	19	2	ODT_Ustk-19-Boroduliha-450	0x69d9ed62	No	Yes	No	192	Бородулиха 7723 51	1
+77235124236	19	1	ODT_Ustk-19-Boroduliha-450	0xdd86acdc	No	No	No	191	Бородулиха 7723 51	1
+77235124232	19	0	ODT_Ustk-19-Boroduliha-450	0x0d3c856a	No	No	No	190	Бородулиха 7723 51	1
+-	19	1	ODT_Ustk-19-Boroduliha-450	0xdd869ba9	No	No	No	191	-	0
+77235124225	20	2	ODT_Ustk-20-Sosnovka-450	0xdd8696ca	No	No	No	202	Бородулиха 7723 51	1
+77235124222	19	2	ODT_Ustk-19-Boroduliha-450	0x0d3ca100	No	Yes	Yes	192	Бородулиха 7723 51	1
+77235124207	19	1	ODT_Ustk-19-Boroduliha-450	0xdd4ee30f	No	Yes	No	191	Бородулиха 7723 51	1
+77235124168	19	2	ODT_Ustk-19-Boroduliha-450	0x69da54ff	No	Yes	No	192	Бородулиха 7723 51	1
+77235124164	19	0	ODT_Ustk-19-Boroduliha-450	0x69d9f4f7	No	No	Yes	190	Бородулиха 7723 51	1
+77235124163	19	2	ODT_Ustk-19-Boroduliha-450	0x69d9fc37	No	No	No	192	Бородулиха 7723 51	1
+77235124160	19	1	ODT_Ustk-19-Boroduliha-450	0x0302652e	No	No	No	191	Бородулиха 7723 51	1
+77235124149	19	1	ODT_Ustk-19-Boroduliha-450	0x0d3cda14	No	No	No	191	Бородулиха 7723 51	1
+77235124147	19	1	ODT_Ustk-19-Boroduliha-450	0x054a25b1	No	No	No	191	Бородулиха 7723 51	1
+77235124146	19	1	ODT_Ustk-19-Boroduliha-450	0xdd1b8da0	No	Yes	Yes	191	Бородулиха 7723 51	1
+77235124145	19	1	ODT_Ustk-19-Boroduliha-450	0x0fed5b11	No	No	No	191	Бородулиха 7723 51	1
+77235124141	19	1	ODT_Ustk-19-Boroduliha-450	0x11f5e3d4	No	Yes	No	191	Бородулиха 7723 51	1
+77235124136	19	1	ODT_Ustk-19-Boroduliha-450	0x0549bac4	No	No	No	191	Бородулиха 7723 51	1
+77235124134	19	1	ODT_Ustk-19-Boroduliha-450	0x11f1feb4	No	No	No	191	Бородулиха 7723 51	1
+77235124133	19	1	ODT_Ustk-19-Boroduliha-450	0x10a364d6	No	No	No	191	Бородулиха 7723 51	1
+77235124132	19	1	ODT_Ustk-19-Boroduliha-450	0x055651b5	No	No	No	191	Бородулиха 7723 51	1
+77235124130	19	1	ODT_Ustk-19-Boroduliha-450	0x69da0e43	No	No	No	191	Бородулиха 7723 51	1
+77235124129	19	1	ODT_Ustk-19-Boroduliha-450	0xdd869fcf	No	No	No	191	Бородулиха 7723 51	1
+77235124123	19	1	ODT_Ustk-19-Boroduliha-450	0xdd4eeceb	No	No	No	191	Бородулиха 7723 51	1
+77235124122	19	1	ODT_Ustk-19-Boroduliha-450	0x0d3c7a2a	No	No	No	191	Бородулиха 7723 51	1
+77235124121	19	1	ODT_Ustk-19-Boroduliha-450	0xffcc1c0f	No	No	No	191	Бородулиха 7723 51	1
+77235124119	19	1	ODT_Ustk-19-Boroduliha-450	0x11f5a9e4	No	No	No	191	Бородулиха 7723 51	1
+77235124118	19	1	ODT_Ustk-19-Boroduliha-450	0x69d9ef80	No	No	No	191	Бородулиха 7723 51	1
+77235124114	19	1	ODT_Ustk-19-Boroduliha-450	0x69da53d0	No	No	No	191	Бородулиха 7723 51	1
+77235124112	19	1	ODT_Ustk-19-Boroduliha-450	0x69d9f4e4	No	No	No	191	Бородулиха 7723 51	1
+77235124109	19	1	ODT_Ustk-19-Boroduliha-450	0x0300c83a	No	No	Yes	191	Бородулиха 7723 51	1
+77235124102	19	1	ODT_Ustk-19-Boroduliha-450	0x69d9ed9c	No	No	No	191	Бородулиха 7723 51	1
+77235124098	19	1	ODT_Ustk-19-Boroduliha-450	0xdd4ee3bd	No	Yes	Yes	191	Бородулиха 7723 51	1
+77235124095	19	1	ODT_Ustk-19-Boroduliha-450	0x054e3794	No	No	No	191	Бородулиха 7723 51	1
+77235124092	19	1	ODT_Ustk-19-Boroduliha-450	0x11f1fc50	No	No	No	191	Бородулиха 7723 51	1
+77235124091	19	1	ODT_Ustk-19-Boroduliha-450	0x11f5a98c	No	No	No	191	Бородулиха 7723 51	1
+77235124088	19	1	ODT_Ustk-19-Boroduliha-450	0x0d3e24e7	No	No	No	191	Бородулиха 7723 51	1
+77235124086	19	2	ODT_Ustk-19-Boroduliha-450	0x0301c189	No	Yes	Yes	192	Бородулиха 7723 51	1
+-	19	1	ODT_Ustk-19-Boroduliha-450	0xdd869baa	No	No	No	191	-	0
+77235124084	19	1	ODT_Ustk-19-Boroduliha-450	0xdd86c8ff	Yes	Yes	Yes	191	Бородулиха 7723 51	1
+77235124083	19	0	ODT_Ustk-19-Boroduliha-450	0x0d3cb005	No	Yes	Yes	190	Бородулиха 7723 51	1
+77235124081	19	2	ODT_Ustk-19-Boroduliha-450	0xdd86e768	No	No	No	192	Бородулиха 7723 51	1
+77235124077	19	0	ODT_Ustk-19-Boroduliha-450	0x054e2c75	No	No	No	190	Бородулиха 7723 51	1
+77235124075	19	1	ODT_Ustk-19-Boroduliha-450	0x0306490b	No	No	No	191	Бородулиха 7723 51	1
+77235124069	19	0	ODT_Ustk-19-Boroduliha-450	0xdd86a0b2	No	Yes	Yes	190	Бородулиха 7723 51	1
+77235124055	19	1	ODT_Ustk-19-Boroduliha-450	0x69d9f637	No	Yes	Yes	191	Бородулиха 7723 51	1
+77235124054	19	2	ODT_Ustk-19-Boroduliha-450	0x0d3cd803	No	No	No	192	Бородулиха 7723 51	1
+77235124050	19	2	ODT_Ustk-19-Boroduliha-450	0xdd1b6e80	No	No	No	192	Бородулиха 7723 51	1
+77235124047	19	1	ODT_Ustk-19-Boroduliha-450	0x11f5a94a	No	Yes	No	191	Бородулиха 7723 51	1
+77235124040	19	2	ODT_Ustk-19-Boroduliha-450	0x0fed54d8	No	No	No	192	Бородулиха 7723 51	1
+77235124037	19	2	ODT_Ustk-19-Boroduliha-450	0x0d3ca103	No	Yes	No	192	Бородулиха 7723 51	1
+77235124024	37	2	ODT_Ustk-37-Remki-450	0x0d3c9019	No	No	No	372	Бородулиха 7723 51	1
+-	37	1	ODT_Ustk-37-Remki-450	0xdd869a6f	No	No	No	371	-	0
+77235124016	19	1	ODT_Ustk-19-Boroduliha-450	0xdd1b7120	No	No	No	191	Бородулиха 7723 51	1
+77235124014	19	2	ODT_Ustk-19-Boroduliha-450	0x0fed658b	No	No	No	192	Бородулиха 7723 51	1
+77235124010	19	1	ODT_Ustk-19-Boroduliha-450	0x11f5bc4f	No	No	No	191	Бородулиха 7723 51	1
+77234850661	84	2	ODT_Ustk-84-Ulkenboken-450	0x077f8d7a	No	Yes	No	842	Кокпекты 7723 48	1
+77234850605	84	1	ODT_Ustk-84-Ulkenboken-450	0x0fed76a6	No	Yes	Yes	841	Кокпекты 7723 48	1
+77234850582	75	2	ODT_Ustk-75-Kokpekty-450	0x0fed5ed9	No	No	No	752	Кокпекты 7723 48	1
+77234850521	79	2	ODT_Ustk-79-Kokzhaik-450	0x0fed6180	No	No	No	792	Кокпекты 7723 48	1
+77234850519	79	2	ODT_Ustk-79-Kokzhaik-450	0x0fed6174	No	No	No	792	Кокпекты 7723 48	1
+77234850503	79	2	ODT_Ustk-79-Kokzhaik-450	0x0931c09c	No	No	No	792	Кокпекты 7723 48	1
+77234850465	75	2	ODT_Ustk-75-Kokpekty-450	0x69d9f642	No	No	No	752	Кокпекты 7723 48	1
+-	81	2	ODT_Ustk-81-Palatsy-450	0xdd869661	No	No	No	812	-	0
+77234850312	81	2	ODT_Ustk-81-Palatsy-450	0xdd86963b	No	No	No	812	Кокпекты 7723 48	1
+77234850285	79	0	ODT_Ustk-79-Kokzhaik-450	0x0fed634f	No	Yes	Yes	790	Кокпекты 7723 48	1
+77234850263	79	2	ODT_Ustk-79-Kokzhaik-450	0x0fed521e	No	Yes	Yes	792	Кокпекты 7723 48	1
+77234850239	84	0	ODT_Ustk-84-Ulkenboken-450	0x0fed6546	No	Yes	Yes	840	Кокпекты 7723 48	1
+77234850226	84	0	ODT_Ustk-84-Ulkenboken-450	0x0fed4d3d	No	No	No	840	Кокпекты 7723 48	1
+77234850164	84	0	ODT_Ustk-84-Ulkenboken-450	0x69da64a6	No	No	No	840	Кокпекты 7723 48	1
+-	79	0	ODT_Ustk-79-Kokzhaik-450	0xdd8696b7	No	No	No	790	-	0
+77234850056	84	1	ODT_Ustk-84-Ulkenboken-450	0x69da0bdb	No	No	Yes	841	Кокпекты 7723 48	1
+-	84	1	ODT_Ustk-84-Ulkenboken-450	0xdd869529	No	No	No	841	-	0
+77234820928	79	0	ODT_Ustk-79-Kokzhaik-450	0x69d9fc60	No	No	No	790	Кокпекты 7723 48	1
+77234820924	79	0	ODT_Ustk-79-Kokzhaik-450	0xdd8699ec	No	No	No	790	Кокпекты 7723 48	1
+-	84	0	ODT_Ustk-84-Ulkenboken-450	0x09a2391b	No	No	No	840	-	0
+-	79	1	ODT_Ustk-79-Kokzhaik-450	0x80ea6dbc	No	No	No	791	-	0
+77234820773	79	2	ODT_Ustk-79-Kokzhaik-450	0x0fed633d	No	Yes	No	792	Кокпекты 7723 48	1
+-	75	2	ODT_Ustk-75-Kokpekty-450	0x69da64ba	No	No	No	752	-	0
+-	79	0	ODT_Ustk-79-Kokzhaik-450	0xdd8696a3	No	No	No	790	-	0
+77234820659	75	1	ODT_Ustk-75-Kokpekty-450	0x02f74090	No	Yes	Yes	751	Кокпекты 7723 48	1
+77234820627	82	1	ODT_Ustk-82-Jumba-450	0x02f96e03	No	Yes	Yes	821	Кокпекты 7723 48	1
+77234820618	84	0	ODT_Ustk-84-Ulkenboken-450	0x02f976b6	No	Yes	Yes	840	Кокпекты 7723 48	1
+77234820589	84	0	ODT_Ustk-84-Ulkenboken-450	0x805fb9ac	No	Yes	No	840	Кокпекты 7723 48	1
+77234820582	84	0	ODT_Ustk-84-Ulkenboken-450	0x69d9e78a	No	No	No	840	Кокпекты 7723 48	1
+-	77	2	ODT_Ustk-77-Kuygan-450	0x106ae7fa	No	No	No	772	-	0
+77234820405	75	2	ODT_Ustk-75-Kokpekty-450	0x69da655f	No	Yes	No	752	Кокпекты 7723 48	1
+77234820350	79	2	ODT_Ustk-79-Kokzhaik-450	0x0d3c7431	No	Yes	No	792	Кокпекты 7723 48	1
+77234820315	84	0	ODT_Ustk-84-Ulkenboken-450	0x0d3c86dc	No	No	No	840	Кокпекты 7723 48	1
+77234820308	84	0	ODT_Ustk-84-Ulkenboken-450	0x80089d9f	No	Yes	No	840	Кокпекты 7723 48	1
+-	75	2	ODT_Ustk-75-Kokpekty-450	0xdd8696a1	No	No	No	752	-	0
+77234820272	75	0	ODT_Ustk-75-Kokpekty-450	0x0fed632f	No	No	No	750	Кокпекты 7723 48	1
+77234820262	75	1	ODT_Ustk-75-Kokpekty-450	0x0fed630d	No	No	No	751	Кокпекты 7723 48	1
+77234820251	75	2	ODT_Ustk-75-Kokpekty-450	0x0d3c77d0	No	No	No	752	Кокпекты 7723 48	1
+77234820234	75	1	ODT_Ustk-75-Kokpekty-450	0x0d3cafb9	No	No	Yes	751	Кокпекты 7723 48	1
+-	79	2	ODT_Ustk-79-Kokzhaik-450	0x0d3caf9f	No	No	No	792	-	0
+77234820202	84	2	ODT_Ustk-84-Ulkenboken-450	0x69da1ed8	No	Yes	Yes	842	Кокпекты 7723 48	1
+77234820170	75	2	ODT_Ustk-75-Kokpekty-450	0x0d3ca520	No	No	No	752	Кокпекты 7723 48	1
+77234820067	75	2	ODT_Ustk-75-Kokpekty-450	0x0fed6338	No	No	No	752	Кокпекты 7723 48	1
+77234820023	75	2	ODT_Ustk-75-Kokpekty-450	0x0d3cb0a9	No	Yes	No	752	Кокпекты 7723 48	1
+77234820001	84	0	ODT_Ustk-84-Ulkenboken-450	0x0301a9ed	No	Yes	No	840	Кокпекты 7723 48	1
+-	81	2	ODT_Ustk-81-Palatsy-450	0x0990aad6	No	No	No	812	-	0
+77234767991	24	2	OODT_Ustk-24-Auezova-450	0x0fed8d07	No	No	No	242	Калбатау 7723 47	1
+77234767986	22	2	ODT_Ustk-22-Zhangiz-450	0x030195bc	No	No	No	222	Калбатау 7723 47	1
+77234767974	22	0	ODT_Ustk-22-Zhangiz-450	0x0fed5ae9	No	No	No	220	Калбатау 7723 47	1
+77234767973	32	1	ODT_Ustk-32-Sulusary-450	0x0301dc43	No	Yes	No	321	Калбатау 7723 47	1
+77234767957	32	2	ODT_Ustk-32-Sulusary-450	0xdd869907	No	No	No	322	Калбатау 7723 47	1
+77234767955	23	0	ODT_Ustk-23-Shar-450	0x69bfb069	No	Yes	No	230	Калбатау 7723 47	1
+77234767948	23	2	ODT_Ustk-23-Shar-450	0x0547bed0	No	No	No	232	Калбатау 7723 47	1
+77234767946	23	2	ODT_Ustk-23-Shar-450	0x0fed5af4	No	Yes	No	232	Калбатау 7723 47	1
+77234767945	23	2	ODT_Ustk-23-Shar-450	0x03022f1a	No	Yes	No	232	Калбатау 7723 47	1
+77234767944	23	0	ODT_Ustk-23-Shar-450	0x0fed6402	No	No	No	230	Калбатау 7723 47	1
+77234767933	59	0	ODT_Ustk-59-Kalbatau-450	0x0547f0f8	No	No	No	590	Калбатау 7723 47	1
+77234767926	59	2	ODT_Ustk-59-Kalbatau-450	0x1203f230	No	Yes	Yes	592	Калбатау 7723 47	1
+77234767921	22	1	ODT_Ustk-22-Zhangiz-450	0xdd86b78e	No	No	No	221	Калбатау 7723 47	1
+-	70	2	ODT_Ustk-70-Uschbeek-450	0x099640f4	No	No	No	702	-	0
+77234767890	59	1	ODT_Ustk-59-Kalbatau-450	0x69d9ede5	No	No	No	591	Калбатау 7723 47	1
+77234767885	22	1	ODT_Ustk-22-Zhangiz-450	0x0d1051a3	No	No	No	221	Калбатау 7723 47	1
+77234767877	59	1	ODT_Ustk-59-Kalbatau-450	0x0fed5217	No	Yes	Yes	591	Калбатау 7723 47	1
+77234767872	22	0	ODT_Ustk-22-Zhangiz-450	0x0301b816	No	No	No	220	Калбатау 7723 47	1
+77234767870	32	1	ODT_Ustk-32-Sulusary-450	0x0300e145	No	No	No	321	Калбатау 7723 47	1
+77234767854	32	1	ODT_Ustk-32-Sulusary-450	0x0301cf2e	No	Yes	No	321	Калбатау 7723 47	1
+77234767829	22	0	ODT_Ustk-22-Zhangiz-450	0x0547eede	No	Yes	Yes	220	Калбатау 7723 47	1
+77234767825	24	2	OODT_Ustk-24-Auezova-450	0x02fdb895	No	No	No	242	Калбатау 7723 47	1
+77234767803	23	2	ODT_Ustk-23-Shar-450	0x06d8bd44	No	No	Yes	232	Калбатау 7723 47	1
+-	59	1	ODT_Ustk-59-Kalbatau-450	0xdd4e0b23	No	No	No	591	-	0
+77234767744	23	2	ODT_Ustk-23-Shar-450	0x0993f065	No	No	No	232	Калбатау 7723 47	1
+77234767739	23	2	ODT_Ustk-23-Shar-450	0x0fed45b4	No	Yes	Yes	232	Калбатау 7723 47	1
+77234767738	22	1	ODT_Ustk-22-Zhangiz-450	0x1203f16d	No	No	No	221	Калбатау 7723 47	1
+77234767728	23	0	ODT_Ustk-23-Shar-450	0xffcc1811	No	No	No	230	Калбатау 7723 47	1
+77234767726	22	0	ODT_Ustk-22-Zhangiz-450	0xffcc180a	No	Yes	No	220	Калбатау 7723 47	1
+77234767697	23	0	ODT_Ustk-23-Shar-450	0x0301b6fb	No	No	No	230	Калбатау 7723 47	1
+77234767695	23	0	ODT_Ustk-23-Shar-450	0x1203fc74	No	No	No	230	Калбатау 7723 47	1
+77234767692	23	0	ODT_Ustk-23-Shar-450	0x05492f2e	No	No	No	230	Калбатау 7723 47	1
+77234767676	22	1	ODT_Ustk-22-Zhangiz-450	0x0fed5218	No	Yes	Yes	221	Калбатау 7723 47	1
+77234767674	23	2	ODT_Ustk-23-Shar-450	0x69bfab53	No	Yes	No	232	Калбатау 7723 47	1
+77234767665	23	0	ODT_Ustk-23-Shar-450	0xdd4ee3e0	No	No	No	230	Калбатау 7723 47	1
+77234767664	22	2	ODT_Ustk-22-Zhangiz-450	0x02f3a3b5	No	No	No	222	Калбатау 7723 47	1
+77234767631	23	2	ODT_Ustk-23-Shar-450	0x076b3c6c	No	No	No	232	Калбатау 7723 47	1
+77234767627	59	1	ODT_Ustk-59-Kalbatau-450	0xdd86a476	No	Yes	No	591	Калбатау 7723 47	1
+77234767579	22	2	ODT_Ustk-22-Zhangiz-450	0x11f57a9a	No	Yes	No	222	Калбатау 7723 47	1
+77234767561	23	2	ODT_Ustk-23-Shar-450	0x0fed6487	No	No	No	232	Калбатау 7723 47	1
+77234767560	24	2	OODT_Ustk-24-Auezova-450	0x06d707af	No	Yes	Yes	242	Калбатау 7723 47	1
+77234767554	22	0	ODT_Ustk-22-Zhangiz-450	0x0fed64c8	No	No	No	220	Калбатау 7723 47	1
+77234767538	24	2	OODT_Ustk-24-Auezova-450	0x0d3cba6a	No	Yes	Yes	242	Калбатау 7723 47	1
+77234767510	22	0	ODT_Ustk-22-Zhangiz-450	0x0d3c7c26	No	No	No	220	Калбатау 7723 47	1
+77234767490	24	2	OODT_Ustk-24-Auezova-450	0x0d3c867d	No	Yes	No	242	Калбатау 7723 47	1
+77234767462	23	2	ODT_Ustk-23-Shar-450	0x05495831	No	No	No	232	Калбатау 7723 47	1
+77234767450	24	2	OODT_Ustk-24-Auezova-450	0x0d3c89bb	No	No	No	242	Калбатау 7723 47	1
+77234767437	24	2	OODT_Ustk-24-Auezova-450	0xffcc17ed	No	Yes	No	242	Калбатау 7723 47	1
+77234767421	24	2	OODT_Ustk-24-Auezova-450	0xffcc1b2f	No	No	No	242	Калбатау 7723 47	1
+77234767416	23	2	ODT_Ustk-23-Shar-450	0x093da4ec	No	No	No	232	Калбатау 7723 47	1
+77234767415	23	0	ODT_Ustk-23-Shar-450	0x69da5860	No	No	No	230	Калбатау 7723 47	1
+77234767403	23	0	ODT_Ustk-23-Shar-450	0x0fed6470	No	No	No	230	Калбатау 7723 47	1
+77234767394	22	0	ODT_Ustk-22-Zhangiz-450	0x0fed6275	No	Yes	Yes	220	Калбатау 7723 47	1
+77234767381	22	2	ODT_Ustk-22-Zhangiz-450	0x093c44b1	No	No	No	222	Калбатау 7723 47	1
+77234767374	59	2	ODT_Ustk-59-Kalbatau-450	0x0547e8bc	No	No	No	592	Калбатау 7723 47	1
+77234767363	22	0	ODT_Ustk-22-Zhangiz-450	0x02f4cfd3	No	Yes	Yes	220	Калбатау 7723 47	1
+77234767362	59	1	ODT_Ustk-59-Kalbatau-450	0x10649d51	No	Yes	Yes	591	Калбатау 7723 47	1
+77234767358	23	0	ODT_Ustk-23-Shar-450	0xdd86a297	No	Yes	Yes	230	Калбатау 7723 47	1
+77234767356	59	2	ODT_Ustk-59-Kalbatau-450	0xffcc1ae3	No	Yes	Yes	592	Калбатау 7723 47	1
+77234767354	32	1	ODT_Ustk-32-Sulusary-450	0x0d3eaa31	No	No	No	321	Калбатау 7723 47	1
+-	23	2	ODT_Ustk-23-Shar-450	0xdd8699cc	No	No	No	232	-	0
+77234767344	22	0	ODT_Ustk-22-Zhangiz-450	0xdd868bf2	No	Yes	Yes	220	Калбатау 7723 47	1
+77234767343	22	0	ODT_Ustk-22-Zhangiz-450	0x1064e8e5	No	Yes	Yes	220	Калбатау 7723 47	1
+77234767341	59	0	ODT_Ustk-59-Kalbatau-450	0x0301db60	No	Yes	Yes	590	Калбатау 7723 47	1
+77234767340	59	0	ODT_Ustk-59-Kalbatau-450	0x05493fca	No	Yes	Yes	590	Калбатау 7723 47	1
+77234767335	59	1	ODT_Ustk-59-Kalbatau-450	0x10a3d5a6	No	Yes	No	591	Калбатау 7723 47	1
+77234767322	22	1	ODT_Ustk-22-Zhangiz-450	0x0fed511f	No	No	No	221	Калбатау 7723 47	1
+77234767319	59	1	ODT_Ustk-59-Kalbatau-450	0x093c2243	No	Yes	No	591	Калбатау 7723 47	1
+-	32	1	ODT_Ustk-32-Sulusary-450	0x0d13f963	No	No	No	321	-	0
+77234767267	22	0	ODT_Ustk-22-Zhangiz-450	0x1203fd11	No	Yes	Yes	220	Калбатау 7723 47	1
+77234767266	59	2	ODT_Ustk-59-Kalbatau-450	0x076b3c7c	No	No	No	592	Калбатау 7723 47	1
+77234767260	32	1	ODT_Ustk-32-Sulusary-450	0xdd4ee3a3	No	No	No	321	Калбатау 7723 47	1
+77234767255	24	2	OODT_Ustk-24-Auezova-450	0x05496357	No	No	No	242	Калбатау 7723 47	1
+77234767238	32	0	ODT_Ustk-32-Sulusary-450	0xffcc21a8	No	No	No	320	Калбатау 7723 47	1
+77234767222	32	1	ODT_Ustk-32-Sulusary-450	0x10a37435	No	Yes	No	321	Калбатау 7723 47	1
+77234767221	59	1	ODT_Ustk-59-Kalbatau-450	0x10a36191	No	Yes	No	591	Калбатау 7723 47	1
+77234767214	24	2	OODT_Ustk-24-Auezova-450	0x02f34866	No	Yes	Yes	242	Калбатау 7723 47	1
+77234767213	59	1	ODT_Ustk-59-Kalbatau-450	0x0fed8f97	No	Yes	Yes	591	Калбатау 7723 47	1
+77234767208	59	2	ODT_Ustk-59-Kalbatau-450	0x1203ee88	No	No	No	592	Калбатау 7723 47	1
+77234767201	23	0	ODT_Ustk-23-Shar-450	0x0d3caf43	No	No	No	230	Калбатау 7723 47	1
+77234767196	23	0	ODT_Ustk-23-Shar-450	0x0d3caf44	No	No	No	230	Калбатау 7723 47	1
+77234767189	32	1	ODT_Ustk-32-Sulusary-450	0x11f57b68	No	Yes	No	321	Калбатау 7723 47	1
+77234767179	22	2	ODT_Ustk-22-Zhangiz-450	0x02f3a422	No	No	No	222	Калбатау 7723 47	1
+77234767150	23	0	ODT_Ustk-23-Shar-450	0x0d3e9c6f	No	No	No	230	Калбатау 7723 47	1
+77234767147	22	0	ODT_Ustk-22-Zhangiz-450	0x0da09717	No	Yes	Yes	220	Калбатау 7723 47	1
+77234767145	22	0	ODT_Ustk-22-Zhangiz-450	0x0d3cac18	No	No	No	220	Калбатау 7723 47	1
+77234767141	59	2	ODT_Ustk-59-Kalbatau-450	0xdd86abf0	No	No	Yes	592	Калбатау 7723 47	1
+77234767101	22	0	ODT_Ustk-22-Zhangiz-450	0x80bda709	No	Yes	No	220	Калбатау 7723 47	1
+77234767078	22	0	ODT_Ustk-22-Zhangiz-450	0x078e8522	No	No	No	220	Калбатау 7723 47	1
+77234767075	23	1	ODT_Ustk-23-Shar-450	0x0fed5abc	No	No	No	231	Калбатау 7723 47	1
+-	32	0	ODT_Ustk-32-Sulusary-450	0x0301c582	No	No	No	320	-	0
+77234767051	22	0	ODT_Ustk-22-Zhangiz-450	0x0301b743	No	No	No	220	Калбатау 7723 47	1
+77234767050	22	1	ODT_Ustk-22-Zhangiz-450	0x0990aab8	No	Yes	No	221	Калбатау 7723 47	1
+77234767020	32	1	ODT_Ustk-32-Sulusary-450	0xdd868ea4	No	Yes	Yes	321	Калбатау 7723 47	1
+-	22	1	ODT_Ustk-22-Zhangiz-450	0x09963d74	No	No	No	221	-	0
+77234767008	22	0	ODT_Ustk-22-Zhangiz-450	0x02fdcfa0	No	No	No	220	Калбатау 7723 47	1
+77234767005	22	2	ODT_Ustk-22-Zhangiz-450	0xdd86e13f	No	No	No	222	Калбатау 7723 47	1
+77234742996	59	2	ODT_Ustk-59-Kalbatau-450	0x0fed6578	No	Yes	No	592	Калбатау 7723 47	1
+77234742977	22	0	ODT_Ustk-22-Zhangiz-450	0x0547cf5f	No	No	No	220	Калбатау 7723 47	1
+77234742975	22	0	ODT_Ustk-22-Zhangiz-450	0x0fed64cc	No	No	No	220	Калбатау 7723 47	1
+77234742972	23	0	ODT_Ustk-23-Shar-450	0x0fed629b	No	No	No	230	Калбатау 7723 47	1
+77234742942	70	2	ODT_Ustk-70-Uschbeek-450	0x0fed4da1	No	No	No	702	Калбатау 7723 47	1
+-	22	1	ODT_Ustk-22-Zhangiz-450	0xdd4dfa45	No	No	No	221	-	0
+-	32	2	ODT_Ustk-32-Sulusary-450	0x0d10503a	No	No	No	322	-	0
+-	24	2	OODT_Ustk-24-Auezova-450	0xdd4e0aef	No	No	No	242	-	0
+77234742853	32	1	ODT_Ustk-32-Sulusary-450	0x0fed8f76	No	Yes	No	321	Калбатау 7723 47	1
+77234742833	32	1	ODT_Ustk-32-Sulusary-450	0x0da093bb	No	Yes	No	321	Калбатау 7723 47	1
+77234742778	32	1	ODT_Ustk-32-Sulusary-450	0x0301b626	No	Yes	Yes	321	Калбатау 7723 47	1
+77234742757	22	0	ODT_Ustk-22-Zhangiz-450	0x0fed641e	No	Yes	No	220	Калбатау 7723 47	1
+77234742710	32	1	ODT_Ustk-32-Sulusary-450	0x0fed61e2	No	No	No	321	Калбатау 7723 47	1
+77234742704	22	0	ODT_Ustk-22-Zhangiz-450	0x0301c04c	No	No	No	220	Калбатау 7723 47	1
+77234742695	59	2	ODT_Ustk-59-Kalbatau-450	0x0fed6248	No	No	No	592	Калбатау 7723 47	1
+-	32	2	ODT_Ustk-32-Sulusary-450	0xdd869805	No	No	No	322	-	0
+-	32	2	ODT_Ustk-32-Sulusary-450	0x09963d47	No	No	No	322	-	0
+-	24	1	OODT_Ustk-24-Auezova-450	0x0d10515d	No	No	No	241	-	0
+77234742645	30	0	ODT_Ustk-30-Arshaly-450	0xdd869766	No	No	No	300	Калбатау 7723 47	1
+77234742643	32	2	ODT_Ustk-32-Sulusary-450	0x0fed6201	No	Yes	No	322	Калбатау 7723 47	1
+77234742641	32	2	ODT_Ustk-32-Sulusary-450	0x0da093a1	No	No	No	322	Калбатау 7723 47	1
+77234742635	32	2	ODT_Ustk-32-Sulusary-450	0x02f3457a	No	No	No	322	Калбатау 7723 47	1
+77234742621	32	1	ODT_Ustk-32-Sulusary-450	0xdd86965e	No	No	No	321	Калбатау 7723 47	1
+-	24	1	OODT_Ustk-24-Auezova-450	0x09963de9	No	No	No	241	-	0
+77234742610	32	2	ODT_Ustk-32-Sulusary-450	0x05493d71	No	No	No	322	Калбатау 7723 47	1
+77234742609	32	2	ODT_Ustk-32-Sulusary-450	0x0d140e07	No	No	No	322	Калбатау 7723 47	1
+77234742600	32	2	ODT_Ustk-32-Sulusary-450	0xdd4ee44b	No	No	No	322	Калбатау 7723 47	1
+77234742595	59	0	ODT_Ustk-59-Kalbatau-450	0x0301dbf6	No	Yes	No	590	Калбатау 7723 47	1
+77234742569	24	2	OODT_Ustk-24-Auezova-450	0x076b557d	No	No	No	242	Калбатау 7723 47	1
+77234742567	22	0	ODT_Ustk-22-Zhangiz-450	0x0301d3cb	No	No	No	220	Калбатау 7723 47	1
+77234742561	23	0	ODT_Ustk-23-Shar-450	0x0549c41c	No	No	No	230	Калбатау 7723 47	1
+77234742560	22	0	ODT_Ustk-22-Zhangiz-450	0x054919d1	No	Yes	Yes	220	Калбатау 7723 47	1
+77234742545	23	0	ODT_Ustk-23-Shar-450	0x0301cf9d	No	No	No	230	Калбатау 7723 47	1
+77234742536	22	0	ODT_Ustk-22-Zhangiz-450	0x06d8bd49	No	Yes	Yes	220	Калбатау 7723 47	1
+77234742510	22	1	ODT_Ustk-22-Zhangiz-450	0x1203f3d5	No	No	No	221	Калбатау 7723 47	1
+77234742462	22	0	ODT_Ustk-22-Zhangiz-450	0x0fed5836	No	Yes	No	220	Калбатау 7723 47	1
+77234742454	23	0	ODT_Ustk-23-Shar-450	0x69da3423	No	No	No	230	Калбатау 7723 47	1
+77234742447	22	2	ODT_Ustk-22-Zhangiz-450	0x0301b06c	No	Yes	No	222	Калбатау 7723 47	1
+77234742443	22	0	ODT_Ustk-22-Zhangiz-450	0x0301a48a	No	No	No	220	Калбатау 7723 47	1
+77234742442	22	0	ODT_Ustk-22-Zhangiz-450	0x0fed6408	No	No	No	220	Калбатау 7723 47	1
+77234742441	22	0	ODT_Ustk-22-Zhangiz-450	0xdd868ee0	No	Yes	Yes	220	Калбатау 7723 47	1
+77234742440	22	0	ODT_Ustk-22-Zhangiz-450	0x0301c121	No	Yes	Yes	220	Калбатау 7723 47	1
+77234742389	23	0	ODT_Ustk-23-Shar-450	0xffcc190a	No	No	No	230	Калбатау 7723 47	1
+77234742386	22	0	ODT_Ustk-22-Zhangiz-450	0x02f4c568	No	No	No	220	Калбатау 7723 47	1
+77234742385	23	1	ODT_Ustk-23-Shar-450	0x0547fa30	No	No	No	231	Калбатау 7723 47	1
+77234742377	22	1	ODT_Ustk-22-Zhangiz-450	0x05493c60	No	No	No	221	Калбатау 7723 47	1
+77234742372	59	2	ODT_Ustk-59-Kalbatau-450	0x0301a49d	No	Yes	No	592	Калбатау 7723 47	1
+77234742343	22	0	ODT_Ustk-22-Zhangiz-450	0x0fed64a7	No	Yes	Yes	220	Калбатау 7723 47	1
+77234742339	23	0	ODT_Ustk-23-Shar-450	0xffcc1c80	No	No	No	230	Калбатау 7723 47	1
+77234742334	59	0	ODT_Ustk-59-Kalbatau-450	0x093c43c7	No	Yes	Yes	590	Калбатау 7723 47	1
+77234742333	22	0	ODT_Ustk-22-Zhangiz-450	0x0fed55a2	No	No	No	220	Калбатау 7723 47	1
+77234742331	59	1	ODT_Ustk-59-Kalbatau-450	0x0547f45b	No	No	No	591	Калбатау 7723 47	1
+77234742326	23	0	ODT_Ustk-23-Shar-450	0xffcc1cb6	No	No	No	230	Калбатау 7723 47	1
+77234742302	70	2	ODT_Ustk-70-Uschbeek-450	0x1203fd03	No	No	Yes	702	Калбатау 7723 47	1
+77234742275	30	2	ODT_Ustk-30-Arshaly-450	0x02f43b6d	No	Yes	No	302	Калбатау 7723 47	1
+77234742258	30	0	ODT_Ustk-30-Arshaly-450	0x0301d977	No	No	No	300	Калбатау 7723 47	1
+-	32	2	ODT_Ustk-32-Sulusary-450	0x09963525	No	No	No	322	-	0
+77234742212	59	1	ODT_Ustk-59-Kalbatau-450	0x076ace9d	No	No	No	591	Калбатау 7723 47	1
+77234742183	22	1	ODT_Ustk-22-Zhangiz-450	0x0549a7ac	No	No	No	221	Калбатау 7723 47	1
+77234742182	23	1	ODT_Ustk-23-Shar-450	0x0fed5a85	No	No	No	231	Калбатау 7723 47	1
+77234742170	30	2	ODT_Ustk-30-Arshaly-450	0x0547bddd	No	Yes	Yes	302	Калбатау 7723 47	1
+77234742154	22	1	ODT_Ustk-22-Zhangiz-450	0x07993a16	No	No	No	221	Калбатау 7723 47	1
+77234742130	22	1	ODT_Ustk-22-Zhangiz-450	0x02f5a8a2	No	No	No	221	Калбатау 7723 47	1
+77234742119	30	2	ODT_Ustk-30-Arshaly-450	0xdd86960b	No	No	No	302	Калбатау 7723 47	1
+77234742114	30	2	ODT_Ustk-30-Arshaly-450	0x80136ede	No	Yes	No	302	Калбатау 7723 47	1
+77234742110	30	2	ODT_Ustk-30-Arshaly-450	0xdd86a4a1	No	Yes	No	302	Калбатау 7723 47	1
+77234742002	30	2	ODT_Ustk-30-Arshaly-450	0x80959b2b	No	Yes	No	302	Калбатау 7723 47	1
+77234741765	23	1	ODT_Ustk-23-Shar-450	0xffcc1adf	No	No	No	231	Калбатау 7723 47	1
+77234741748	24	2	OODT_Ustk-24-Auezova-450	0x093c361a	No	No	No	242	Калбатау 7723 47	1
+77234741715	22	1	ODT_Ustk-22-Zhangiz-450	0x0547f0fa	No	No	No	221	Калбатау 7723 47	1
+77234741714	70	2	ODT_Ustk-70-Uschbeek-450	0x0fed4d5d	No	No	No	702	Калбатау 7723 47	1
+-	32	2	ODT_Ustk-32-Sulusary-450	0x09964172	No	No	No	322	-	0
+77234741706	22	1	ODT_Ustk-22-Zhangiz-450	0x0758c308	No	No	No	221	Калбатау 7723 47	1
+77234741704	22	1	ODT_Ustk-22-Zhangiz-450	0x0301d2c2	No	No	Yes	221	Калбатау 7723 47	1
+77234741280	22	0	ODT_Ustk-22-Zhangiz-450	0xdd86b770	No	No	No	220	Калбатау 7723 47	1
+77234741275	23	2	ODT_Ustk-23-Shar-450	0x1203eeac	No	No	No	232	Калбатау 7723 47	1
+77234741269	23	0	ODT_Ustk-23-Shar-450	0x0300e20d	No	No	No	230	Калбатау 7723 47	1
+77234741261	23	1	ODT_Ustk-23-Shar-450	0x0300cf05	No	No	No	231	Калбатау 7723 47	1
+77234741250	32	1	ODT_Ustk-32-Sulusary-450	0xdd86b9fc	No	No	No	321	Калбатау 7723 47	1
+77234741245	22	2	ODT_Ustk-22-Zhangiz-450	0x02fdb78d	No	No	No	222	Калбатау 7723 47	1
+77234741213	22	0	ODT_Ustk-22-Zhangiz-450	0xdd86b422	No	No	No	220	Калбатау 7723 47	1
+77234741201	22	0	ODT_Ustk-22-Zhangiz-450	0x0301cd35	No	No	No	220	Калбатау 7723 47	1
+77234741176	23	0	ODT_Ustk-23-Shar-450	0x0300d696	No	No	No	230	Калбатау 7723 47	1
+77234741171	32	1	ODT_Ustk-32-Sulusary-450	0x0fed512e	No	No	No	321	Калбатау 7723 47	1
+77234741166	59	1	ODT_Ustk-59-Kalbatau-450	0x02f870ad	No	No	No	591	Калбатау 7723 47	1
+77234741143	24	1	OODT_Ustk-24-Auezova-450	0xffcc1b0e	No	No	No	241	Калбатау 7723 47	1
+77234741141	32	1	ODT_Ustk-32-Sulusary-450	0x0301dcc3	No	No	No	321	Калбатау 7723 47	1
+77234741109	23	0	ODT_Ustk-23-Shar-450	0x0301a4ab	No	No	No	230	Калбатау 7723 47	1
+77234741102	22	2	ODT_Ustk-22-Zhangiz-450	0x0547d58f	No	No	No	222	Калбатау 7723 47	1
+77234741092	23	1	ODT_Ustk-23-Shar-450	0x05493b5f	No	No	No	231	Калбатау 7723 47	1
+77234741085	22	1	ODT_Ustk-22-Zhangiz-450	0x0301b8a4	No	No	No	221	Калбатау 7723 47	1
+77234741084	22	0	ODT_Ustk-22-Zhangiz-450	0x0301c0c9	No	No	No	220	Калбатау 7723 47	1
+77234741078	22	0	ODT_Ustk-22-Zhangiz-450	0x0301c117	No	Yes	Yes	220	Калбатау 7723 47	1
+77234741072	22	2	ODT_Ustk-22-Zhangiz-450	0xdd849246	No	Yes	No	222	Калбатау 7723 47	1
+-	22	1	ODT_Ustk-22-Zhangiz-450	0x0d140db0	No	No	No	221	-	0
+77234741061	32	1	ODT_Ustk-32-Sulusary-450	0x0301a42c	No	Yes	No	321	Калбатау 7723 47	1
+77234741060	22	1	ODT_Ustk-22-Zhangiz-450	0x0fed65be	No	Yes	Yes	221	Калбатау 7723 47	1
+77234741055	22	2	ODT_Ustk-22-Zhangiz-450	0x0547d2d6	No	Yes	No	222	Калбатау 7723 47	1
+77234741054	22	1	ODT_Ustk-22-Zhangiz-450	0xdd86aaac	No	No	No	221	Калбатау 7723 47	1
+77234741026	22	2	ODT_Ustk-22-Zhangiz-450	0x07992b70	No	No	No	222	Калбатау 7723 47	1
+-	70	2	ODT_Ustk-70-Uschbeek-450	0x09963bb9	No	No	No	702	-	0
+77234740993	22	0	ODT_Ustk-22-Zhangiz-450	0xdd8698ff	No	No	No	220	Калбатау 7723 47	1
+77234740991	23	1	ODT_Ustk-23-Shar-450	0x0547e56b	No	Yes	Yes	231	Калбатау 7723 47	1
+77234740965	24	2	OODT_Ustk-24-Auezova-450	0x054915af	No	No	No	242	Калбатау 7723 47	1
+-	59	2	ODT_Ustk-59-Kalbatau-450	0x0fed6528	No	No	No	592	-	0
+77234740947	22	0	ODT_Ustk-22-Zhangiz-450	0x02f5a758	No	No	No	220	Калбатау 7723 47	1
+77234740944	24	2	OODT_Ustk-24-Auezova-450	0x0d3e5917	No	No	No	242	Калбатау 7723 47	1
+77234740927	23	1	ODT_Ustk-23-Shar-450	0xffcc18e9	No	No	No	231	Калбатау 7723 47	1
+77234740917	32	1	ODT_Ustk-32-Sulusary-450	0x05495295	No	No	No	321	Калбатау 7723 47	1
+77234740841	22	2	ODT_Ustk-22-Zhangiz-450	0x0301b83d	No	Yes	No	222	Калбатау 7723 47	1
+77234740814	30	2	ODT_Ustk-30-Arshaly-450	0x02f43cd4	No	Yes	Yes	302	Калбатау 7723 47	1
+77234740806	59	2	ODT_Ustk-59-Kalbatau-450	0x076acde9	No	Yes	No	592	Калбатау 7723 47	1
+77234740757	22	2	ODT_Ustk-22-Zhangiz-450	0x1203f252	No	No	No	222	Калбатау 7723 47	1
+77234740747	24	2	OODT_Ustk-24-Auezova-450	0x06d71d8d	No	No	No	242	Калбатау 7723 47	1
+77234740712	22	0	ODT_Ustk-22-Zhangiz-450	0x0301db6b	No	No	No	220	Калбатау 7723 47	1
+77234740707	24	2	OODT_Ustk-24-Auezova-450	0x0548f989	No	No	No	242	Калбатау 7723 47	1
